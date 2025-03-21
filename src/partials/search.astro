@@ -1,0 +1,64 @@
+---
+
+interface Recipe {
+    id: string,
+    data: {
+        title: string,
+    }
+}
+
+interface Props {
+    content: Recipe[],
+}
+const {content} = Astro.props;
+
+---
+
+<div>
+    <input type="search" placeholder="Search" id="search" autofocus spellcheck="false">
+    <ul>
+        {
+            content.map((e) => <li class="search-results" hidden><a href=`/recipe/${e.id}` >{e.data.title}</a></li>)
+        }
+    </ul>
+</div>
+<style>
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    input {
+        font-size: 1.5rem;
+        text-align: center;
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+        border-radius: 10px;
+        border: none;
+
+    }
+    ul {
+        max-height: 300px;
+        overflow-y: scroll;
+    }
+</style>
+<script is:inline defer>
+    const search = document.getElementById("search");
+    const lis = document.getElementsByClassName("search-results");
+
+    if (search && lis) {
+        search.oninput = (event) => {
+            for (const item of lis) {
+                if (item.innerText.toLowerCase().includes(search.value.toLowerCase())) {
+                    item.hidden = false;
+                } else {
+                    item.hidden = true;
+                }
+            }
+
+        }
+    } else {
+        console.error("Failed to get search box");
+    }
+</script>

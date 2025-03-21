@@ -1,6 +1,9 @@
 ---
 import { getCollection } from "astro:content"
 import Head from "../partials/base.astro"
+import Latest from "../partials/latest.astro";
+import Tagcloud from "../partials/tagcloud.astro";
+import Search from "../partials/search.astro";
 
 export async function getTags(): Promise<string[]> {
 	let recipes = await getCollection("recipe");
@@ -13,7 +16,7 @@ export async function getTags(): Promise<string[]> {
 	return tags;
 }
 
-let recipes = await getCollection("recipe");
+const recipes = await getCollection("recipe");
 recipes.sort((a,b) => b.data.date.getDate() - a.data.date.getDate())
 
 const tags = await getTags();
@@ -21,37 +24,26 @@ const tags = await getTags();
 ---
 
 <Head title='Home' desc='Where the party is happening!'>
-	<h1>Welcoming all based cooks!</h1>
-	<div>
-		<h2>Latest Recipes:</h2>
-	<ol>
-		{
-			recipes.map((recipe,index) => {
-				if (index < 10) {
-					return <li><a href=`/recipe/${recipe.id}`>{recipe.data.title}</a></li>
-				}
-			})
-		}
-	</ol>
-	</div>
-
-	<div>
-		<h2>Tags:</h2>
-	<ul id="tags">
-		{
-			tags.map((r) => <li><a href=`/tag/${r}`>{r}</a></li>)
-		}
-	</ul>
-	</div>
+	<h1>Welcome based cooks!</h1>
+	<h2>Making cooking fast & easy</h2>
+	<Search content={recipes}/>
+	<!-- <hr> -->
+	<!-- <Latest recipes={recipes}/> -->
+	<hr>
+	<Tagcloud tags={tags} />
 </Head>
 <style>
-	#tags {
-		display: flex;
-		flex-wrap: wrap;
-		padding: 0;
+	h1 {
+		margin: 100px;
+		margin-bottom: 0;
+		font-size: 3rem;
 	}
-	#tags li {
-		padding: 5px;
-		list-style-type: none;
+	h1,h2 {
+		text-align: center;
+	}
+	h2 {
+		margin: 100px;
+		margin-top: 30px;
+		color: var(--second);
 	}
 </style>

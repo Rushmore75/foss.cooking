@@ -1,0 +1,28 @@
+---
+interface Recipe {
+    id: string,
+    data: {
+        title: string,
+    } 
+}
+
+interface Props {
+    // we're just gonna treat this a js
+    recipes: Recipe[],
+}
+
+const {recipes} = Astro.props;
+
+---
+<div>
+	<h2>Latest Recipes:</h2>
+<ol>
+	{
+		recipes.map((recipe,index) => {
+			if (index < 10) {
+				return <li><a href=`/recipe/${recipe.id}`>{recipe.data.title}</a></li>
+			}
+		})
+	}
+</ol>
+</div>
