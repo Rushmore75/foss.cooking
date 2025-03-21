@@ -2,9 +2,10 @@
 interface Props {
     title: string;
     desc: string;
+    author?: string;
 }
 
-const { desc, title } = Astro.props;
+const { desc, title, author } = Astro.props;
 
 let url = new URL(Astro.request.url);
 const site = Astro.site?.toString();
@@ -16,7 +17,8 @@ const page_url = site + url.pathname.substring(1);
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="robots" content="index, follow" />
-        <link rel="icon" href="favicon.svg" />
+        <link rel="icon" href="/favicon.svg" />
+        { author && <meta property="og:author" content={author}/>}
 
         <title>{title}</title>
         <meta property="og:title" content={title} />
@@ -31,13 +33,11 @@ const page_url = site + url.pathname.substring(1);
         <meta property="og:url" content={page_url} />
         <link rel="canonical" href={page_url} />
 
-   </head>
+        <script src="/back.js" defer is:inline/>
+    </head>
     <body>
         <slot />
     </body>
-    <hr />
-    <footer>
-    </footer>
 </html>
 <style>
     body {
@@ -49,16 +49,6 @@ const page_url = site + url.pathname.substring(1);
         bottom: 0;
         text-align: center;
         margin-bottom: 15px;
-    }
-    a {
-        text-decoration: none;
-        color: var(--faded);
-    }
-    a:visited {
-        color: var(--faded);
-    }
-    a:hover {
-        color: var(--text);
     }
 </style>
 <style is:global>
@@ -78,15 +68,26 @@ const page_url = site + url.pathname.substring(1);
         --fade-in: 250ms;
         --fade-out: 100ms;
 
-        --text: black;
-        --bg: white;
+        --text: white;
+        --bg: #191919;
 
-        --second: grey;
-        --faded: darkgrey;
+        --second: #A0A0A0;
+        --faded: rgb(101, 101, 101);
 
         --primary: aqua;
         --secondary: rgb(201, 49, 49);
         --callout: rgb(131, 125, 255);
+    }
+    a {
+        color: var(--second);
+        text-decoration: underline;
+        cursor: pointer;
+    }
+    a:visited {
+        color: var(--faded);
+    }
+    a:hover {
+        color: var(--text);
     }
     html {
         background-color: var(--bg);

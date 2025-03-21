@@ -1,0 +1,81 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { render } from 'astro:content';
+import { getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
+import Base from '../../partials/base.astro';
+
+// generate the page
+export const getStaticPaths = (async () => {
+    let all = await getCollection("recipe");
+    return all.map(e => ({
+        params: {recipe: e.id},
+        props: { article: e}
+    }));
+}) satisfies GetStaticPaths;
+
+// produce the page
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const {title, author, date, tags} = article.data;
+
+let auth_obj = await getEntry(
+    author.collection,
+    author.id.toLowerCase().replaceAll(" ", "-"),
+);
+
+---
+<Base title={title} desc=`${title} by ${author}` author={author.id}>
+    <div id="content">
+        <header>
+            <h1>{title}</h1>
+            <div id="links">
+            <h2><a href="/">Home</a></h2>
+            <!-- @ts-ignore -->
+            <h2><a href=`/author/${auth_obj.id}`>Author</a></h2>
+            <h2><a id="back">Back</a></h2>
+            </div>
+        </header>
+        <article>
+            <Content />
+        </article>
+    </div>
+</Base>
+<style>
+    #content {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+    header {
+        display: flex;
+        flex-direction: column;
+        margin: 50px;
+        align-items: center;
+    }
+    h1 {
+        margin: 0;
+        font-size: 4rem;
+    }
+    #links {
+        display: flex;
+    }
+    h2 {
+        margin: 0;
+        padding: 10px;
+    }
+    article {
+        max-width: 90%;
+    }
+
+</style>
+<!-- is:global is required to reach inside the Content element -->
+<style is:global>
+    img {
+        max-width: 80%;
+        max-height: 400px;
+        margin: auto;
+        display: block;
+    }
+</style>

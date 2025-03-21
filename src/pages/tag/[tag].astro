@@ -1,0 +1,41 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import { getTags } from "../index.astro";
+import { record } from "astro:schema";
+import Base from "../../partials/base.astro";
+
+// generate the page
+export const getStaticPaths = (async () => {
+    let res = new Array();
+    (await getTags()).forEach((e) => {
+        res.push({params: {tag: e}})
+    });
+
+    return res;
+}) satisfies GetStaticPaths;
+
+
+// produce the page
+
+const {tag} = Astro.params;
+
+const recipes = await getCollection("recipe");
+const filtered = recipes.filter((e) => e.data.tags.includes(tag))
+
+---
+<Base title=`Tag: ${tag}` desc=`All recipes containing the tag: ${tag}` >
+    <div>
+    <h1>All recipes with "{tag}"</h1>
+    <ul>
+        { filtered.map((f) => <li><a href=`/recipe/${f.id}`>{f.data.title}</a></li>) }
+    </ul>
+    </div>
+</Base>
+<style>
+    div {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>

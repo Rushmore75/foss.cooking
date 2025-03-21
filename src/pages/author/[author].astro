@@ -1,0 +1,79 @@
+---
+import type { GetStaticPaths } from "astro";
+import { getCollection } from "astro:content";
+import Base from "../../partials/base.astro";
+
+// generate the page
+export const getStaticPaths = (async () => {
+    let all = await getCollection("authors");
+    return all.map(e => ({
+        params: { author: e.id },
+        props: { user: e }
+    }));
+}) satisfies GetStaticPaths;
+
+
+// produce the page
+const {author} = Astro.params;
+const {
+    name,
+    website,
+    website_tor,
+    xmr,
+    btc,
+    eth,
+    email,
+    donate,
+} = Astro.props.user.data;
+
+---
+<Base title={name} desc=`Info on author: ${name}` author={name} >
+    <article>
+        <header>
+        <h1>{name}</h1>
+        <div id="links">
+            <h2><a href="/">Home</a></h2>
+            <h2><a id="back">Back</a></h2>
+        </div>
+        </header>
+    <ul>
+        { website &&<li>Website: <a href={website}>{website}</a></li>}
+        { website_tor &&<li>Tor site: <a href={website_tor}>{website_tor}</a></li>}
+        { email &&<li>Email: <a href=`mailto:${email}`>{email}</a></li>}
+        { xmr &&<li>XMR: <span>{xmr}</span></li>}
+        { btc &&<li>BTC: <span>{btc}</span></li>}
+        { eth &&<li>ETH: <span>{eth}</span></li>}
+        { donate &&<li>Donate Link: <span>{donate}</span></li>}
+    </ul>
+    </article>
+</Base>
+<style>
+    article {
+        margin: 50px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    header {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+    #links {
+        display: flex;
+        justify-content: center;
+    }
+    h1 {
+        font-size: 3rem;
+        margin: 0;
+    }
+    h2 {
+        margin: 0;
+        padding: 10px;
+    }
+    li {
+        padding: 3px;
+    }
+    span {
+        color: var(--second);
+    }
+</style>
