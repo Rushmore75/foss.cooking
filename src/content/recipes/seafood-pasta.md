@@ -30,7 +30,7 @@ sauce.
 ## Directions
 
 1. Prepare your pasta, if you don't know how I recommend to follow [these
-   instructions](/pasta). I choose to make mine al dente because it will continue to cook
+   instructions](/recipe/pasta). I choose to make mine al dente because it will continue to cook
    slightly once we add the sauce.
 2. Defrost/Deshell your seafood of choice
 3. Chop a half tablespoon of garlic into small pieces

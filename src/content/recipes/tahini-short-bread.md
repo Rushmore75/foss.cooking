@@ -32,5 +32,5 @@ For better results, a food processor is welcome for this recipe.  **IMPORTANT** 
 3. Have a good mixing of the butter and the preparation so it gets a bit airy.
 4. Add the flour slowly so the preparation stays homogenous.
 5. Add the baking powder
-6. Let the dough sit and then cook it as described in [butter-based biscuits recipe](/butter-based-biscuit)
+6. Let the dough sit and then cook it as described in [butter-based biscuits recipe](/recipe/butter-based-biscuit)
 7. Enjoy with tea

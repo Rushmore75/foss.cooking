@@ -16,8 +16,8 @@ This is more of an example of possible ingredients, you can replace any of them 
 
 ## Ingredients
 
-- 1 serving [Wholemeal Wheat Flour Pizza Dough](/wholemeal-wheat-flour-pizza-dough)
-- 1 serving [Easy Pizza Sauce](/easy-pizza-sauce)
+- 1 serving [Wholemeal Wheat Flour Pizza Dough](/recipe/wholemeal-wheat-flour-pizza-dough)
+- 1 serving [Easy Pizza Sauce](/recipe/easy-pizza-sauce)
 - ~80g mozzarella cheese
 - ~40g Edam cheese
 - ~40g Tilsitter cheese

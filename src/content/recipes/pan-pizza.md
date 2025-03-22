@@ -14,8 +14,8 @@ Pan pizza gives a thick and crispy crust 🍕. For this recipe, start early with
 
 ## Ingredients
 
-- [no-knead pizza dough](/no-knead-pizza-dough)
-- [pizza sauce](/pizza-sauce)
+- [no-knead pizza dough](/recipe/no-knead-pizza-dough)
+- [pizza sauce](/recipe/pizza-sauce)
 - cheese
 - olive oil
 - pepperoni (optional)

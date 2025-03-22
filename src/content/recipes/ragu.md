@@ -36,5 +36,5 @@ Break up tomatoes in the pan.
 Reduce heat to very low and add mix to the pan.
 7. Cook about 10 minutes until the sauce is dark red and glistens with oil.
 8. Remove herb sprigs and add pepper to taste.
-9. Meanwhile, boil large pot of salted water then cook and drain the [pasta](/pasta).
+9. Meanwhile, boil large pot of salted water then cook and drain the [pasta](/recipe/pasta).
 10. Serve ragù over plate of pasta and top with grated parmesan cheese;

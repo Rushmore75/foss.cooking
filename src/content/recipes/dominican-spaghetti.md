@@ -27,7 +27,7 @@ author: carl-zimmerman
 
 ## Directions
 
-1. Boil [spaghetti](/pasta).
+1. Boil [spaghetti](/recipe/pasta).
 2. In a separate pan, Sauté onions, peppers, and garlic until soft.
 3. Add seasonings and black pepper to taste. Mix until well combined.
 4. Add tomato paste, sauce, and the pasta water. Mix and let it come to a simmer. Simmer for 5 minutes.

@@ -7,7 +7,7 @@ author: luke-smith
 
 This is a simple outline of how to cook pasta.
 TL;DR: you boil it.
-Pasta is usually eaten with some kind of [pasta sauce](/pasta-sauce) or used in another dish.
+Pasta is usually eaten with some kind of [pasta sauce](/recipe/pasta-sauce) or used in another dish.
 
 ## Ingredients
 

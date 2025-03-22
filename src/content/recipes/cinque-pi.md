@@ -23,7 +23,7 @@ This is a nice simple dish made up of five ingredients: panna, pomodori, parmigi
 
 ## Directions
 
-1. Start cooking the [pasta](/pasta).
+1. Start cooking the [pasta](/recipe/pasta).
 2. Mix the cream with the tomato paste and bring to a boil.
 3. Turn the heat down to medium and add as much grated parmigiano as you like.
 4. Let it cook on medium to low heat until the pasta is done.

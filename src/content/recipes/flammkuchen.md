@@ -12,7 +12,7 @@ I like the recipe because it takes 10 minutes to prepare and another 10 minutes 
 
 ## Ingredients
 
-- 400g Pizza dough (either bought or from [Pizza Dough](/pizza-dough))
+- 400g Pizza dough (either bought or from [Pizza Dough](/recipe/pizza-dough))
 - 1 onion (I prefer the red ones for optical reasons)
 - 150g bacon (you can replace it with mushrooms or other vegetables)
 - 2 big spoons of sour creme or creme fraiche
