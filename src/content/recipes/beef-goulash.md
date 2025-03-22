@@ -1,7 +1,7 @@
 ---
 title: "Beef Goulash"
 date: 2021-03-12
-tags: ['beef', 'stew']
+tags: ['beef', 'stew', 'hungarian']
 author: yaroslav-smirnov
 ---
 
