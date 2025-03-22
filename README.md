@@ -5,9 +5,10 @@ The spiritual successor or based.cooking. Luke Smith got the ball rolling but is
 
 ## Contributing
 
-1. Place your recipe written in markdown in `/src/content/recipes`.
-2. Place any pictures in `/public/pix/`.
-3. Make an `.json` file about yourself in `/src/content/authors`. This should be your name, lowercase, with hyphens instead of spaces. IE: `Oliver Atkinson` -> `oliver-atkinson.json`. This should be the same name as what you put in the authors section of your recipe. IE: `author: "Oliver Atkinson"`
+* Inside [this folder](/template/) are the template files for making a new recipe.
+* Copy the `json` into `/src/content/authors/`.
+* Copy the `md` into `/src/content/recipes/`.
+* Place any pictures in the `webp` format in `/public/pix/`
 
 `author.json` Follows the following schema:
 ```json
