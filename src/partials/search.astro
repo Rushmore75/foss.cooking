@@ -15,7 +15,7 @@ const {content} = Astro.props;
 ---
 
 <div>
-    <input type="search" placeholder="Search" id="search" autofocus spellcheck="false">
+    <input type="search" placeholder="Search" id="search" autofocus spellcheck="false" autocomplete="off">
     <ul>
         {
             content.map((e) => <li class="search-results" hidden><a href=`/recipe/${e.id}` >{e.data.title}</a></li>)
@@ -31,24 +31,43 @@ const {content} = Astro.props;
     input {
         font-size: 1.5rem;
         text-align: center;
+
         padding: 10px;
         padding-left: 20px;
         padding-right: 20px;
+
         border-radius: 10px;
         border: none;
-
     }
     ul {
         max-height: 300px;
         overflow-y: scroll;
+        padding: 10px;
     }
+    a {
+        padding: 5px;
+    }
+	@media screen and (max-width: 600px) {
+		input {
+			font-size: 1rem;
+            padding: 10px;
+		}	
+	}
 </style>
 <script is:inline defer>
     const search = document.getElementById("search");
     const lis = document.getElementsByClassName("search-results");
 
     if (search && lis) {
-        search.oninput = (event) => {
+
+        let last_update = 0;
+
+        search.oninput = () => {
+            // buffer events
+            if ((Date.now() - last_update) < 75) {
+                return
+            } 
+            last_update = Date.now();
             for (const item of lis) {
                 if (item.innerText.toLowerCase().includes(search.value.toLowerCase())) {
                     item.hidden = false;

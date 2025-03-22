@@ -8,16 +8,18 @@ const { tags } = Astro.props;
 
 ---
 <div>
-	<h1>All Tags:</h2>
+	<h2>All Tags:</h2>
 <ul id="tags">
 	{
-		tags.map((r) => <li><a href=`/tag/${r}`>{r}</a></li>)
+		tags.map((r) => <li><a href=`/tag/${r}` >{r}</a></li>)
 	}
 </ul>
 </div>
 <style>
-    h1 {
+    h2 {
         text-align: center;
+		margin: 0;
+		font-size: 2rem;
     }
 	ul {
 		display: flex;
@@ -26,7 +28,11 @@ const { tags } = Astro.props;
         justify-content: center;
 	}
 	li {
-		padding: 5px;
 		list-style-type: none;
+		padding: 0;
+		margin: 0;
+	}
+	a {
+		padding: 10px;
 	}
 </style>

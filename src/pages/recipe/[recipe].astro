@@ -27,7 +27,7 @@ let auth_obj = await getEntry(
 
 ---
 <Base title={title} desc=`${title} by ${author}` author={author.id}>
-    <div id="content">
+    <div>
         <header>
             <h1>{title}</h1>
             <div id="links">
@@ -37,26 +37,23 @@ let auth_obj = await getEntry(
             <h2><a id="back">Back</a></h2>
             </div>
         </header>
+        <hr>
         <article>
             <Content />
         </article>
     </div>
 </Base>
 <style>
-    #content {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-    }
     header {
         display: flex;
         flex-direction: column;
-        margin: 50px;
+        margin: 40px;
         align-items: center;
     }
     h1 {
         margin: 0;
         font-size: 4rem;
+        text-align: center;
     }
     #links {
         display: flex;
@@ -66,9 +63,9 @@ let auth_obj = await getEntry(
         padding: 10px;
     }
     article {
-        max-width: 90%;
+        max-width: 800px;
+        margin: auto;
     }
-
 </style>
 <!-- is:global is required to reach inside the Content element -->
 <style is:global>
@@ -76,6 +73,9 @@ let auth_obj = await getEntry(
         max-width: 80%;
         max-height: 400px;
         margin: auto;
+        margin-top: 20px;
+        margin-bottom: 20px;
         display: block;
+        border-radius: 10px;
     }
 </style>

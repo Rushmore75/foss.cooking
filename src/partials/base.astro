@@ -38,6 +38,10 @@ const page_url = site + url.pathname.substring(1);
     <body>
         <slot />
     </body>
+    <hr>
+    <footer>
+        Issues with the site? Contact me on matrix: @oliver:kinson.cloud
+    </footer>
 </html>
 <style>
     body {
@@ -48,7 +52,8 @@ const page_url = site + url.pathname.substring(1);
         color: var(--faded);
         bottom: 0;
         text-align: center;
-        margin-bottom: 15px;
+        padding: 40px;
+        margin-bottom: 20px;
     }
 </style>
 <style is:global>
@@ -70,14 +75,13 @@ const page_url = site + url.pathname.substring(1);
         --fade-out: 100ms;
 
         --text: white;
-        --bg: #191919;
+        --bg: #262626;
 
-        --second: #A0A0A0;
-        --faded: rgb(101, 101, 101);
-
-        --primary: aqua;
-        --secondary: rgb(201, 49, 49);
-        --callout: rgb(131, 125, 255);
+        --second: #adadad;
+        --faded: #656565;
+    }
+    h1,h2,h3,h4,h5,h6 {
+        line-height: normal;
     }
     a {
         color: var(--second);
@@ -99,11 +103,6 @@ const page_url = site + url.pathname.substring(1);
     }
     .small {
         display: none;
-    }
-    @media screen and (max-width: 650px) {
-        .small {
-            display: block;
-        }
     }
     hr {
         border: none;

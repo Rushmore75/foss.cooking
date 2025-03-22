@@ -20,9 +20,20 @@ const {recipes} = Astro.props;
 	{
 		recipes.map((recipe,index) => {
 			if (index < 10) {
-				return <li><a href=`/recipe/${recipe.id}`>{recipe.data.title}</a></li>
+				return <li><a href=`/recipe/${recipe.id}` >{recipe.data.title}</a></li>
 			}
 		})
 	}
 </ol>
 </div>
+<style>
+	div {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	h2 {
+		margin: 0;
+		font-size: 2rem;
+	}
+</style>

@@ -23,18 +23,21 @@ const tags = await getTags();
 
 ---
 
-<Head title='Home' desc='Where the party is happening!'>
-	<h1>Welcome based cooks!</h1>
-	<h2>Making cooking fast & easy</h2>
+<Head title='Home' desc='The based-est cooking site there is.'>
+	<header>
+		<h1>Welcome based cooks!</h1>
+		<h2>Making cooking fast & easy</h2>
+		<h2>🧑‍🍳🔥</h2>
+	</header>
 	<Search content={recipes}/>
-	<!-- <hr> -->
-	<!-- <Latest recipes={recipes}/> -->
+	<hr>
+	<Latest recipes={recipes}/>
 	<hr>
 	<Tagcloud tags={tags} />
 </Head>
 <style>
 	h1 {
-		margin: 100px;
+		margin-top: 40px;
 		margin-bottom: 0;
 		font-size: 3rem;
 	}
@@ -42,8 +45,15 @@ const tags = await getTags();
 		text-align: center;
 	}
 	h2 {
-		margin: 100px;
-		margin-top: 30px;
+		margin: 10px;
 		color: var(--second);
+	}
+	header {
+		margin: 50px;
+	}
+	@media screen and (max-width: 600px) {
+		h1 {
+			font-size: 2rem;
+		}	
 	}
 </style>
