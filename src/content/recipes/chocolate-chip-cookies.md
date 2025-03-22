@@ -9,7 +9,7 @@ author: mfed3
 
 - ⏲️ Prep time: 10 min
 - 🍳Cook time: 10 min
-- 🍽️ Servings: 4
+- 🍽️Servings: 4
 
 ## Ingredients
 
