@@ -1,14 +1,17 @@
-# basedcooks.com
+# [foss.cooking](https://foss.cooking)
+
+The spiritual successor or based.cooking. Luke Smith got the ball rolling but is living a happier life away from computers (probably).
 
 
 ## Contributing
 
 1. Place your recipe written in markdown in `/src/content/recipes`.
 2. Place any pictures in `/public/pix/`.
-3. (Optional) Make an `.json` file about yourself in `/src/content/authors`. This should be your name, lowercase, with hyphens instead of spaces. IE: `Oliver Atkinson` -> `oliver-atkinson.json`. This should be the same name as what you put in the authors section of your recipe. IE: `author: "Oliver Atkinson"`
+3. Make an `.json` file about yourself in `/src/content/authors`. This should be your name, lowercase, with hyphens instead of spaces. IE: `Oliver Atkinson` -> `oliver-atkinson.json`. This should be the same name as what you put in the authors section of your recipe. IE: `author: "Oliver Atkinson"`
 
 `author.json` Follows the following schema:
 ```json
+// your-name.json
 {
     "name": "Your Name",
     "website_tor": "url | null",
@@ -21,3 +24,16 @@
 }
 ```
 If you want another field just let me know in an issue or PR.
+
+The recipe schema is as follows:
+```markdown
+// a-nice-name.md
+---
+title: "A nice name"
+date: YYYY-MM-DD
+tags: ["array", "of", "strings"]
+author: "Your Name"
+---
+
+Your pretty markdown!
+```
