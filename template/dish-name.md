@@ -11,9 +11,9 @@ author: "your-name"
 
 ![Picture Alt Text](/pix/your-picture.webp)
 
-- ⏲️ Prep time: XX min
-- � Cook time: XX min
-- �🍽️ Servings: X
+- ⏲️  Prep time: XX min
+- 🍳 Cook time: XX min
+- 🍽️ Servings: X
 
 ## Ingredients
 
