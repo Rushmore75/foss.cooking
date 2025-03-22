@@ -15,8 +15,8 @@ const {content} = Astro.props;
 ---
 
 <div>
-    <input type="search" placeholder="Search" id="search" autofocus spellcheck="false" autocomplete="off">
-    <ul>
+    <input type="search" placeholder="search..." id="search" autofocus spellcheck="false" autocomplete="off">
+    <ul id="list" hidden>
         {
             content.map((e) => <li class="search-results" hidden><a href=`/recipe/${e.id}` >{e.data.title}</a></li>)
         }
@@ -56,13 +56,15 @@ const {content} = Astro.props;
 </style>
 <script is:inline defer>
     const search = document.getElementById("search");
+    const ul = document.getElementById("list");
     const lis = document.getElementsByClassName("search-results");
 
-    if (search && lis) {
+    if (search && lis && ul) {
 
         let last_update = 0;
 
         search.oninput = () => {
+			ul.hidden = false;
             // buffer events
             if ((Date.now() - last_update) < 75) {
                 return
@@ -81,3 +83,4 @@ const {content} = Astro.props;
         console.error("Failed to get search box");
     }
 </script>
+

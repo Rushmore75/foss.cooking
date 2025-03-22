@@ -41,6 +41,8 @@ const page_url = site + url.pathname.substring(1);
     <hr>
     <footer>
         Issues with the site? Contact me on matrix: @oliver:kinson.cloud
+		<br>
+		Want to add content? <a href='/'>Open a pull request</a>
     </footer>
 </html>
 <style>
@@ -79,17 +81,16 @@ const page_url = site + url.pathname.substring(1);
 
         --second: #adadad;
         --faded: #656565;
+
+		--primary: aqua;
     }
     h1,h2,h3,h4,h5,h6 {
         line-height: normal;
     }
-    a {
+	a, a:visited {
         color: var(--second);
         text-decoration: underline;
         cursor: pointer;
-    }
-    a:visited {
-        color: var(--faded);
     }
     a:hover {
         color: var(--text);

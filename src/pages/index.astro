@@ -23,10 +23,10 @@ const tags = await getTags();
 
 ---
 
-<Head title='Home' desc='The based-est cooking site there is.'>
+<Head title='Home' desc='The best cooking website for open-source recipies.'>
 	<header>
-		<h1>Welcome based cooks!</h1>
-		<h2>Making cooking fast & easy</h2>
+		<h1>Welcome to <span>foss.cooking<span></h1>
+		<h2>Making cooking fast, easy, foss</h2>
 		<h2>🧑‍🍳🔥</h2>
 	</header>
 	<Search content={recipes}/>
@@ -36,6 +36,9 @@ const tags = await getTags();
 	<Tagcloud tags={tags} />
 </Head>
 <style>
+	header {
+		margin: 50px;
+	}
 	h1 {
 		margin-top: 40px;
 		margin-bottom: 0;
@@ -48,8 +51,8 @@ const tags = await getTags();
 		margin: 10px;
 		color: var(--second);
 	}
-	header {
-		margin: 50px;
+	span {
+		color: var(--primary);
 	}
 	@media screen and (max-width: 600px) {
 		h1 {
