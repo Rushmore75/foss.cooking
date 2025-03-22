@@ -1,7 +1,7 @@
 ---
-title: Blueberry Muffins
-tags: 2022-06-10
-date: 2022-6-10
+title: "Blueberry Muffins"
+date: 2022-06-10
+tags: ['blueberry', 'muffins', 'baking', 'oven']
 author: "Marcus Howser"
 ---
 

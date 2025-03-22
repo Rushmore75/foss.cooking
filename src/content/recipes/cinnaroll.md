@@ -1,7 +1,7 @@
 ---
-title: Cinnamon Rolls
+title: "Cinnamon Rolls"
 tags: ['dessert', 'sweet']
-date: 2022-08-7
+date: 2022-08-07
 author: "The Infinity Pizza"
 ---
 
