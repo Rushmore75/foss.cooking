@@ -2,7 +2,7 @@
 title: "Russian 1000 Islands Sauce"
 date: 2021-03-19
 tags: ['basic', 'spread', 'quick', 'russian', 'sauce']
-author: "null"
+author: "private"
 ---
 
 A tasty sauce that goes well with salads or rice. Recipe taken from a Russian monastery.

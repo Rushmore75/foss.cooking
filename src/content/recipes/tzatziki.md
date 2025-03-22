@@ -2,7 +2,7 @@
 title: "Tzatziki"
 tags: ['basic', 'snack', 'spread', 'traditional']
 date: 2022-04-16
-author: "null"
+author: "private"
 ---
 
 ![Tzatziki](/pix/tzatziki.webp)

@@ -2,7 +2,7 @@
 title: "Scandinavian Coffee Cake"
 date: 2021-03-12
 tags: ['sweet', 'dessert', 'cake', 'cheesefare']
-author: "null"
+author: "private"
 ---
 
 * ⏲️ Prep time: 15 min

@@ -2,7 +2,7 @@
 title: "Omelet"
 date: 2021-03-12
 tags: ['eggs', 'quick', 'cheesefare']
-author: "null"
+author: "private"
 ---
 
 - ⏲️ Prep time: 10 min

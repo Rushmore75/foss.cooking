@@ -2,7 +2,7 @@
 title: "Okonomiyaki"
 date: 2021-04-06
 tags: ['quick', 'japanese']
-author: "null"
+author: "private"
 ---
 
 Okonomiyaki is a Japanese savory pancake.  Instead of using air bubbles to lighten the pancake, thin strips of cabbage provide levity to the cake.  This is a very popular street food in Japan, and can be topped with all sorts of different ingredients, as "Okonomiyaki" roughly translates to "Grilled how you like".

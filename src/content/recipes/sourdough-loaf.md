@@ -2,7 +2,7 @@
 title: "Sourdough Table Loaf"
 date: 2021-03-21
 tags: ['bread', 'sourdough']
-author: "Quinn & Alison"
+author: "Quinn and Alison"
 ---
 
 ![Sourdough Table Loaf](/pix/sourdough-loaf.webp)

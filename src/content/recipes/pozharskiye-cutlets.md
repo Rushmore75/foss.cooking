@@ -2,7 +2,7 @@
 title: "Pozharskiye Cutlets"
 date: 2021-03-19
 tags: ['russian', 'chicken']
-author: "Dick, with love from the Motherland."
+author: "Dick"
 ---
 
 Famous Russian cutlet recipe, favoured by Nicholas I.

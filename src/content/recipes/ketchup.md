@@ -2,7 +2,7 @@
 title: "Ketchup"
 date: 2021-03-12
 tags: ['basic', 'sauce', 'fasting']
-author: "null"
+author: "private"
 ---
 
 - Ketchup/Catsup
