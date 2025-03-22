@@ -17,7 +17,7 @@ export async function getTags(): Promise<string[]> {
 }
 
 const recipes = await getCollection("recipe");
-recipes.sort((a,b) => b.data.date.getDate() - a.data.date.getDate())
+recipes.sort((a,b) => b.data.date.getTime() - a.data.date.getTime());
 
 const tags = await getTags();
 
