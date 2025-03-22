@@ -44,7 +44,7 @@ let auth_obj = await getEntry(
 		<hr>
         <h3>Tags</h3>
 		<ul>	
-			{tags.map(e => <li><a href=`/tag/${e}` >{e}</a></li>)}
+			{tags.map(e => <li><a id=`tag-${e}` href=`/tag/${e}` >{e}</a></li>)}
 		</ul>	
     </div>
 </Base>
