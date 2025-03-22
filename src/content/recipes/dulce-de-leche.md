@@ -1,6 +1,6 @@
 ---
-title: Dulce de Leche     
-tags: ['Argentinian', 'Milk', 'Slowcooked', 'Traditional']
+title: 'Dulce de Leche'
+tags: ['argentinian', 'milk', 'slowcooked', 'traditional']
 date: 2022-07-14
 author: "bernardo-slongo"
 ---

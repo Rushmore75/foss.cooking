@@ -1,6 +1,6 @@
 ---
 title: Pavlova
-tags: ['meringue', 'dessert', 'austrailian', 'new zealand', 'oven', 'baking']
+tags: ['meringue', 'dessert', 'australian', 'new zealand', 'oven', 'baking']
 date: 2023-06-10
 author: "Idzuna"
 ---

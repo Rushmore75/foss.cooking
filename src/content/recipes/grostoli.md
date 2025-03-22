@@ -1,6 +1,6 @@
 ---
 title: Grostoli 
-tags: ['Fry', 'Italian', 'Brazilian']
+tags: ['fry', 'italian', 'brazilian']
 date: 2022-09-21
 author: "bernardo-slongo"
 ---

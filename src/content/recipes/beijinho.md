@@ -1,6 +1,6 @@
 ---
 title: Beijinho
-tags: ['Dessert', 'Coconut', 'Traditional', 'Brazilian']
+tags: ['dessert', 'coconut', 'traditional', 'brazilian']
 date: 2024-10-15
 author: "Georis Samuel"
 ---

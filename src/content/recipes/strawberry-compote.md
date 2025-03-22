@@ -1,6 +1,6 @@
 ---
-title: Strawberry Compote
-tags: ['Russian', 'Fruit', Drink]
+title: 'Strawberry Compote'
+tags: ['russian', 'fruit', 'drink']
 date: 2022-11-16
 author: "M-watermelon"
 ---
