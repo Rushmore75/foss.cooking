@@ -32,6 +32,7 @@ const page_url = site + url.pathname.substring(1);
         <meta property="og:image" content="/logo.png" />
         <meta property="og:url" content={page_url} />
         <link rel="canonical" href={page_url} />
+        <link rel="stylesheet" href="tag-icons.css" />
 
         <script src="/back.js" defer is:inline/>
     </head>
@@ -40,7 +41,7 @@ const page_url = site + url.pathname.substring(1);
     </body>
     <hr>
     <footer>
-        Issues with the site? Contact me on matrix: @oliver:kinson.cloud
+        Problems with the site? <a href="https://github.com/Rushmore75/foss.cooking/issues">Open an issue</a>
 		<br>
 		Want to add content? <a href='https://github.com/Rushmore75/foss.cooking/pulls'>Open a pull request</a>
     </footer>

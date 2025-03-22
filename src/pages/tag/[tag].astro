@@ -24,15 +24,36 @@ const filtered = recipes.filter((e) => e.data.tags.includes(tag))
 
 ---
 <Base title=`Tag: ${tag}` desc=`All recipes containing the tag: ${tag}` >
-    <div>
-    <h1>All recipes with "{tag}"</h1>
+	<article>
+	<header>
+    	<h1>All recipes with "{tag}"</h1>
+		<div id="links">
+		<h2><a href="/">Home</a></h2>
+		<h2><a id="back">Back</a></h2>
+	</header>
     <ul>
         { filtered.map((f) => <li><a href=`/recipe/${f.id}`>{f.data.title}</a></li>) }
     </ul>
-    </div>
+    </article>
 </Base>
 <style>
-    div {
+    header {
+        margin-top: 50px;
+        margin-bottom: 10px;
+    }
+    #links {
+        display: flex;
+        justify-content: center;
+    }
+    h1 {
+        font-size: 3rem;
+        margin: 0;
+    }
+    h2 {
+        margin: 0;
+        padding: 10px;
+    }
+    article {
         display: flex;
         align-items: center;
         flex-direction: column;
