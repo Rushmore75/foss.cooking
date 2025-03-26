@@ -1,7 +1,7 @@
 ---
 title: "Tunisian Tajine (laidback version)"
 date: 2025-03-25
-tags: ['Tunisian', 'baked', 'meat', 'vegetables', 'mediterranean', 'oven']
+tags: ['tunisian', 'baked', 'meat', 'vegetables', 'mediterranean', 'oven']
 author: "amine-saddem"
 ---
 
@@ -11,7 +11,7 @@ Tunisian Tajine is a baked, potato & egg based dish that’s rich, hearty, and f
 
 Exact measurements don’t matter, just go with the vibe and use whatever you have on hand. It’s easy to make, holds up well, and can be enjoyed hot or cold. Whether served as a snack or a main dish, it'll make you happy.
 
-For a more traditional recipe with a more complex flavor profile, check out the [traditional version](https://foss.cooking/recipe/tajine/).
+For a more traditional recipe with a more complex flavor profile, check out the [traditional version](/recipe/tajine).
 
 - ⏲️ Prep time: 15 min
 - 🍳 Cook time: 20 min
