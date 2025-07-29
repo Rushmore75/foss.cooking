@@ -4,35 +4,43 @@ interface Props {
     tags: string[],
 }
 
-const { tags } = Astro.props;
+let { tags } = Astro.props;
+
+// Remove emojis for sorting, but display original tag
+function stripEmoji(str: string) {
+    // Remove leading emoji and spaces (covers most emoji cases)
+    return str.replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}]+/gu, '').trimStart();
+}
+
+tags = [...tags].sort((a, b) => stripEmoji(a).localeCompare(stripEmoji(b)));
 
 ---
 <div>
-	<h2>All Tags:</h2>
+    <h2>All Tags:</h2>
 <ul id="tags">
-	{
-		tags.map((r) => <li><a id=`tag-${r}` href=`/tag/${r}` >{r}</a></li>)
-	}
+    {
+        tags.map((r) => <li><a id={`tag-${r}`} href={`/tag/${r}`}>{r}</a></li>)
+    }
 </ul>
 </div>
 <style>
     h2 {
         text-align: center;
-		margin: 0;
-		font-size: 2rem;
+        margin: 0;
+        font-size: 2rem;
     }
-	ul {
-		display: flex;
-		flex-wrap: wrap;
-		padding: 0;
+    ul {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 0;
         justify-content: center;
-	}
-	li {
-		list-style-type: none;
-		padding: 0;
-		margin: 0;
-	}
-	a {
-		padding: 10px;
-	}
+    }
+    li {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+    }
+    a {
+        padding: 10px;
+    }
 </style>
