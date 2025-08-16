@@ -1,0 +1,84 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema",
+    "title": "Recipe",
+    "type": "object",
+    "required": ["@context", "@type", "name", "author", "recipeIngredient", "recipeInstructions"],
+    "properties": {
+	"@context": {
+	    "type": "string",
+	    "const": "https://schema.org"
+	},
+	"@type": {
+	    "type": "string",
+	    "const": "Recipe"
+	},
+	"name": {
+	    "type": "string"
+	},
+	"author": {
+	    "type": "string"
+	},
+	"description": {
+	    "type": "string"
+	},
+	"image": {
+	    "type": "array",
+	    "items": {
+		"type": "string"
+	    }
+	},
+	"keywords": {
+	    "type": "array",
+	    "items": {
+		"type": "string"
+	    }
+	},
+	"datePublished": {
+	    "type": "string",
+	    "format": "date"
+	},
+	"recipeYield": {
+	    "type": "string"
+	},
+	"recipeIngredient": {
+	    "type": "array",
+	    "items": {
+		"type": "string"
+	    }
+	},
+	"recipeInstructions": {
+	    "oneOf": [
+		{
+		    "type": "array",
+		    "items": {
+			"type": "string"
+		    }
+		},
+		{
+		    "type": "array",
+		    "items": {
+			"type": "object",
+			"required": ["@type", "name", "itemListElement"],
+			"properties": {
+			    "@type": {
+				"type": "string",
+				"const": "HowToSection"
+			    },
+			    "name": {
+				"type": "string"
+			    },
+			    "itemListElement": {
+				"type": "array",
+				"items": {
+				    "type": "string"
+				}
+			    }
+			},
+			"additionalProperties": true
+		    }
+		}
+	    ]
+	}
+    },
+    "additionalProperties": true
+}
