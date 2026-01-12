@@ -13,7 +13,7 @@ A very recognizable and simple sweet dish from the mountainous regions of Austri
 
 ## Ingredients
 
-- 200g flower
+- 200g flour
 - 30g sugar
 - 4 eggs
 - 300ml milk
