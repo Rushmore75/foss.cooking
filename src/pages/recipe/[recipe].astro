@@ -31,10 +31,10 @@ let auth_obj = await getEntry(
         <header>
             <h1>{title}</h1>
             <div id="links">
-            <h2><a href="/">Home</a></h2>
+            <span><a href="/">Home</a></span>
             <!-- @ts-ignore -->
-            <h2><a href=`/author/${auth_obj.id}`>Author</a></h2>
-            <h2><a id="back">Back</a></h2>
+            <span><a href=`/author/${auth_obj.id}`>Author</a></span>
+            <span><a id="back">Back</a></span>
             </div>
         </header>
         <hr>
@@ -57,11 +57,12 @@ let auth_obj = await getEntry(
     }
     h1 {
         margin: 0;
-        font-size: 4rem;
+        font-size: 2rem;
         text-align: center;
     }
     #links {
         display: flex;
+        gap: 0.5em;
     }
     h2 {
         margin: 0;
@@ -69,6 +70,7 @@ let auth_obj = await getEntry(
     }
     article {
         max-width: 800px;
+        width: 90%;
         margin: auto;
     }
     h3 {
@@ -78,17 +80,20 @@ let auth_obj = await getEntry(
     }
     ul {
         display: flex;
+        flex-wrap: wrap;
         justify-content: center;
         padding: 0;
     }
     li {
         list-style: none;
-        padding: 10px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
 </style>
 <!-- is:global is required to reach inside the Content element -->
 <style is:global>
     img {
+        width: 100%;
         max-width: 400px;
         max-height: 400px;
         margin: auto;
