@@ -1,0 +1,39 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+import Base from '../../partials/base.astro';
+
+export const getStaticPaths = (async () => {
+    let all = await getCollection("recipe");
+    return all.map(e => {
+        let path = e.id as string;
+        let parts = path.split('/');
+        let author = parts[0]
+        let recipe = parts[1]
+        return ({
+            params: {redir: recipe},
+            props: { recipe: recipe, author: author }
+        })
+    });
+}) satisfies GetStaticPaths;
+
+const { recipe, author } = Astro.props;
+
+const newUrl = '/recipe/' + author + '/' + recipe;
+
+---
+<Base title='New layout!' desc='We changed the site layout, please update your bookmarks!'>
+    <div>
+        <h1>Your content moved!</h1>
+        <p>We re-arranged the site, the page you are looking for is at 
+            <a href={newUrl}>{newUrl}</a>
+    </div>
+</Base>
+<style>
+    div {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 4rem;
+    }
+</style>

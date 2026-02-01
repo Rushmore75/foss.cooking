@@ -1,9 +1,14 @@
 # [foss.cooking](https://foss.cooking)
 
-The spiritual successor or based.cooking. Luke Smith got the ball rolling but is living a happier life away from computers (probably).
 
+The spiritual successor or based.cooking. 
 
-## Contributing
+# New! (2026)
+
+URLs have changed! Instead of finding recipes as such: `https://foss.cooking/recipe/lithuanian-cold-borscht/` you will now find them like:
+`https://foss.cooking/recipe/georgii-bondarev/lithuanian-cold-borscht` (includes author's name). This is to help when duplicate recipes exist in the future. This may also require you to **update your bookmarks**! (Your old ones will work for a bit, but will unexpectedly break in the future)
+
+### Contributing
 
 1. Go to `src/content/recipes/`
 2. Make a folder that is `your-name`. You can also put your recipes in `private` if you wish.
@@ -12,7 +17,7 @@ The spiritual successor or based.cooking. Luke Smith got the ball rolling but is
     * The author line should match the parent's folder's name.
 4. Place any pictures in the `webp` format in `/public/pix/`
 
-## Templates
+### Templates
 
 `author.json` Follows the following schema:
 ```json
