@@ -7,11 +7,12 @@ import Base from "../../partials/base.astro";
 export const getStaticPaths = (async () => {
     let all = await getCollection("authors");
     return all.map(e => ({
-        params: { author: e.id },
+        // author ids are <name>/author
+        // this is a astro default and not changeable
+        params: { author: e.id.split('/')[0] },
         props: { user: e }
     }));
 }) satisfies GetStaticPaths;
-
 
 // produce the page
 const {author} = Astro.params;
@@ -32,8 +33,8 @@ const {
         <header>
         <h1>{name}</h1>
         <div id="links">
-            <h2><a href="/">Home</a></h2>
-            <h2><a id="back">Back</a></h2>
+            <a href="/">Home</a>
+            <a id="back">Back</a>
         </div>
         </header>
     <ul>
@@ -63,11 +64,9 @@ const {
         justify-content: center;
     }
     h1 {
-        font-size: 3rem;
         margin: 0;
     }
-    h2 {
-        margin: 0;
+    a {
         padding: 10px;
     }
     li {

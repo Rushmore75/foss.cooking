@@ -16,7 +16,7 @@ const recipe = defineCollection({
 });
 
 const authors = defineCollection({
-    loader: glob({pattern: "**/*.json", base: "./src/content/authors"}),
+    loader: glob({pattern: "**/*.json", base: "./src/content/recipes"}),
     // the only enforced item is name
     schema: z.object({
         name: z.string(),
