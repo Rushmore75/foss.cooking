@@ -4,6 +4,7 @@ import { render } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import Base from '../../../partials/base.astro';
+import { collections } from '../../../content.config';
 
 // generate the page
 export const getStaticPaths = (async () => {
@@ -27,9 +28,15 @@ const { Content } = await render(article);
 
 const {title, author, date, tags} = article.data;
 
+let a = await getCollection(author.collection);
+a.map((author) => {
+    console.log(author.id)
+})
+console.log(author)
+
 let auth_obj = await getEntry(
     author.collection,
-    `${author.id}/${author.id}`.replaceAll(' ', '-').toLowerCase(),
+    `${author.id}/author`.replaceAll(' ', '-').toLowerCase(),
 );
 
 let author_url = null
