@@ -7,6 +7,8 @@ import Base from "../../partials/base.astro";
 export const getStaticPaths = (async () => {
     let all = await getCollection("authors");
     return all.map(e => ({
+        // author ids are <name>/author
+        // this is a astro default and not changeable
         params: { author: e.id.split('/')[0] },
         props: { user: e }
     }));
