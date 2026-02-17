@@ -8,13 +8,13 @@ author: removewingman
 ![Pumpkin Flatbread 1](/pix/pumpkin-flatbread-1.avif)
 ![Pumpkin Flatbread 2](/pix/pumpkin-flatbread-2.avif)
 
-https://www.lidl-kochen.de/rezeptwelt/veganer-kuerbis-flammkuchen-260162
-
 - ⏲️ Prep time: 30 min
 - 🍳Cook time: 60 min
 - 🍽️ Servings: 4
 
 ## Ingredients
+
+You can obviously switch certain toppings.
 
 - Wheat flour, type 405 – 2 cups (about 8.8 oz)
 - Olive oil – 5 tablespoons
@@ -38,4 +38,4 @@ https://www.lidl-kochen.de/rezeptwelt/veganer-kuerbis-flammkuchen-260162
 6. Roll out the dough on a floured surface into two thin rectangles. Place each one on parchment paper and transfer to a baking sheet. 
 7. Spread the soy yogurt mixture over the dough and top with pumpkin, pear, and onion slices. Bake in the oven for about 10 minutes, until golden brown.
 8. Meanwhile, roughly chop the walnuts. Remove the pumpkin flatbreads from the oven, cut them into portions, sprinkle with walnuts, and serve.
-Enjoy :)
+9. Enjoy :)
