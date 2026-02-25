@@ -2,8 +2,6 @@
 title: "Dish Name"
 date: YYYY-MM-DD
 tags: ['different', 'tags']
-author: "your-name"
-# Author isn't actually what get's displayed, its just a key for linking to your-name.json, where your actual name is stored.
 ---
 
 1-2 sentences about the dish.

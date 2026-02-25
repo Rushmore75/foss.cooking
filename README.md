@@ -17,11 +17,33 @@ URLs have changed! Instead of finding recipes as such: `https://foss.cooking/rec
     * The author line should match the parent's folder's name.
 4. Place any pictures in the `webp` format in `/public/pix/`
 
+Final result:
+
+```txt
+.../recipes/
+    └── your-name/
+        ├── dish-name.md
+        └── author.json (optional)
+```
+
 ### Templates
+
+The recipe schema is as follows:
+```markdown
+// a-nice-name.md
+---
+title: "A nice name"
+date: YYYY-MM-DD
+tags: ["array", "of", "strings"]
+---
+
+Your pretty markdown!
+```
+
+---
 
 `author.json` Follows the following schema:
 ```json
-// your-name.json
 {
     "name": "Your Name",
     "website_tor": "url | null",
@@ -34,16 +56,3 @@ URLs have changed! Instead of finding recipes as such: `https://foss.cooking/rec
 }
 ```
 If you want another field just let me know in an issue or PR.
-
-The recipe schema is as follows:
-```markdown
-// a-nice-name.md
----
-title: "A nice name"
-date: YYYY-MM-DD
-tags: ["array", "of", "strings"]
-author: "Your Name"
----
-
-Your pretty markdown!
-```
