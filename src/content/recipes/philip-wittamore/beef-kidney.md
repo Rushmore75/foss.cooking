@@ -2,7 +2,6 @@
 title: "Beef Kidney"
 date: 2021-06-05
 tags: ['beef']
-author: philip-wittamore
 ---
 
 My wife's beef kidney recipe

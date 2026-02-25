@@ -2,7 +2,6 @@
 title: "Corn Salsa"
 date: 2021-03-23
 tags: ['sauce', 'mexican']
-author: joe-powerhouse
 ---
 
 - ⏲️ Prep time: 10 Minutes

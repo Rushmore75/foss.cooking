@@ -2,7 +2,6 @@
 title: "Kalderetang Manok"
 date: 2021-03-21
 tags: ['filipino', 'chicken']
-author: jess-calape
 ---
 
 Classic Filipino dish, great paired with freshly cooked rice and a bottle of Coca Cola.

@@ -2,7 +2,6 @@
 title: Pretzels
 tags: ['bread', 'fasting']
 date: 2024-05-09
-author: "ihalseide"
 ---
 
 - ⏲️ Prep time: 40 minutes (not including dough rise time)

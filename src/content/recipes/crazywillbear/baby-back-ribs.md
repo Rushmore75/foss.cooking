@@ -2,7 +2,6 @@
 title: "Baby Back Ribs"
 date: 2022-04-15
 tags: ['pork', 'american', 'supper', 'southern']
-author: crazywillbear
 ---
 
 Some classic and delicious baby back ribs. Keep in mind that if you do not have a smoker, a grill with some tin-foil wrapped smoking wood with poked holes will suffice.

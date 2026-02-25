@@ -2,7 +2,6 @@
 title: "Pasta Navy Style"
 date: 2021-03-12
 tags: ['russian', 'pasta', 'beef']
-author: yaroslav-smirnov
 ---
 
 ![Pasta Navy Style](/pix/pasta-navy-style.webp)

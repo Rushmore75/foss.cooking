@@ -2,7 +2,6 @@
 title: "Oats"
 date: 2021-03-10
 tags: ['sweet', 'breakfast', 'quick', 'fasting']
-author: martin-chrzanowski
 ---
 
 Oats are great for breakfast. On their own they're pretty bland, but become

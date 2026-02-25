@@ -2,7 +2,6 @@
 title: "Lenten Lentil Curry"
 date: 2021-04-06
 tags: ['spicy', 'curry', 'lentil', 'fasting']
-author: sinan-kurtulmuş
 ---
 
 Simple green lentil recipe. Suitable for Lent.

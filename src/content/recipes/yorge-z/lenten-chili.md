@@ -2,7 +2,6 @@
 title: "Lenten Chili"
 date: 2021-03-18
 tags: ['fasting']
-author: yorge-z
 ---
 
 ![Lenten chili](/pix/lenten-chili.webp)

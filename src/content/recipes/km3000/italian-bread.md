@@ -2,7 +2,6 @@
 title: "Italian Bread"
 date: 2021-04-06
 tags: ['bread', 'italian', 'fasting']
-author: "km3000"
 ---
 
 - ⏲️ Prep time: 2.5 - 3.25 hr

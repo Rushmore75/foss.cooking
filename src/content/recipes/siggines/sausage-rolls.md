@@ -2,7 +2,6 @@
 title: "Sausage Rolls"
 date: 2021-03-22
 tags: ['pork', 'pastry']
-author: siggines
 ---
 
 - ⏲️ Prep time: 10 min

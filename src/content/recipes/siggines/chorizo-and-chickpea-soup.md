@@ -2,7 +2,6 @@
 title: "Chorizo & Chickpea Soup"
 date: 2021-05-08
 tags: ['pork', 'soup', 'spanish', 'quick']
-author: siggines
 ---
 
 Recommend serving with corn bread.

@@ -2,7 +2,6 @@
 title: "Tuscan Style Pork Roast"
 date: 2021-03-10
 tags: ['italian', 'pork', 'roast']
-author: tanner-wilcox
 ---
 
 ![tuscan-style-pork-roast](/pix/tuscan-style-pork-roast.webp)

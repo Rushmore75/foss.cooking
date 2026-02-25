@@ -2,7 +2,6 @@
 title: "Cheesy Meatballs with Tomato Sauce"
 date: 2021-03-12
 tags: ['beef', 'cheese']
-author: yaroslav-smirnov
 ---
 
 ![Cheesy Meatballs with Tomato Sauce](/pix/cheesy-meatballs.webp)

@@ -2,7 +2,6 @@
 title: "Schnitzel"
 date: 2021-03-18
 tags: ['austrian', 'beef']
-author: "Tobias and Alexandra Grimm"
 ---
 
 ![schnitzel](/pix/schnitzel.webp)

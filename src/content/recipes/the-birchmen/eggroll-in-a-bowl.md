@@ -2,7 +2,6 @@
 title: "Egg Roll in a Bowl"
 date: 2021-03-23
 tags: ['quick', 'asian', 'cabbage']
-author: the-birchmen
 ---
 
 Egg rolls, but, you know, in a bowl.

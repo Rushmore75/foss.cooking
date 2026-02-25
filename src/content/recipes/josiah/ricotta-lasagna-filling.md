@@ -2,7 +2,6 @@
 title: "Ricotta lasagna filling"
 date: 2021-03-24
 tags: ['basic', 'italian', 'cheese']
-author: josiah
 ---
 
 A quick and easy filling for lasagna based on ricotta

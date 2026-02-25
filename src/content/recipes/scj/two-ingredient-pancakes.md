@@ -2,7 +2,6 @@
 title: "Two Ingredient Pancakes"
 date: 2022-07-28
 tags: ['eggs', 'egg whites', 'banana', 'pancake', 'fasting']
-author: scj
 ---
 
 If you opt to use egg whites over whole eggs the final product will not stick together as well, but the taste does not suffer.

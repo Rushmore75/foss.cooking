@@ -2,7 +2,6 @@
 title: "Sunday Morning Milkshake"
 date: 2021-03-12
 tags: ['sweet', 'breakfast', 'drink', 'cheesefare']
-author: yaroslav-smirnov
 ---
 
 ![Sunday Morning Milkshake](/pix/sunday-milkshake.webp)

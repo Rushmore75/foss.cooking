@@ -2,7 +2,6 @@
 title: "Cinnamon Rolls"
 tags: ['dessert', 'sweet']
 date: 2022-08-07
-author: "The Infinity Pizza"
 ---
 
 ![Cinnamon Rolls](/pix/cinnaroll.webp)

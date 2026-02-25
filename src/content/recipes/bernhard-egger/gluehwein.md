@@ -2,7 +2,6 @@
 title: "Glühwein - mulled wine"
 date: 2021-03-19
 tags: ['drink', 'quick', 'swiss', 'german', 'french']
-author: bernhard-egger
 ---
 
 A recipe for Glühwein/mulled wine a beverage you can find at almost every European christmas market. This recipe is my favorite one - optimized for flavor rather than alcohol content (it still kicks in).

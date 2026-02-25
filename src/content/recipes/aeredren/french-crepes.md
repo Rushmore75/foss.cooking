@@ -2,7 +2,6 @@
 title: "French Crêpes"
 date: 2021-03-14
 tags: ['french', 'dessert', 'breakfast', 'cheesefare']
-author: aeredren
 ---
 Like pancakes, but very thin.
 

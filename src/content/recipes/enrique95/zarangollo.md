@@ -2,7 +2,6 @@
 title: "Zarangollo"
 date: 2021-03-22
 tags: ['spanish', 'mediterranean', 'side', 'quick']
-author: enrique95
 ---
 
 Simple veggie starter/side dish from Murcia (Southeastern Spain)

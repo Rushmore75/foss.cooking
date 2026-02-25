@@ -2,7 +2,6 @@
 title: Three Bean Salad
 tags: ['salad', 'american', 'fasting', 'quick']
 date: 2022-09-11
-author: joel-maxuel
 ---
 
 Easy recipe to expand - black turtle beans and chickpeas also work well here.

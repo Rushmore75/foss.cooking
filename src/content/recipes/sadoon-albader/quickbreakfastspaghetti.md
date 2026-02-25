@@ -2,7 +2,6 @@
 title: "Quick Breakfast Spaghetti"
 date: 2021-03-13
 tags: ['breakfast', 'pasta']
-author: sadoon-albader
 ---
 
 A quick breakfast spaghetti recipe that covers a healthy amount of carbs, fat, and spices. Eggs

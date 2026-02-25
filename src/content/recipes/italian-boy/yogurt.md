@@ -2,7 +2,6 @@
 title: "Yogurt"
 date: 2021-03-12
 tags: ['basic', 'breakfast', 'cheesefare']
-author: "italian boy"
 ---
 
 ## Ingredients

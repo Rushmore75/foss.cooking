@@ -2,7 +2,6 @@
 title: "Arroz Chaufa"
 date: 2021-03-16
 tags: ['peruvian', 'chinese', 'rice']
-author: andy-rufasto
 ---
 
 Peruvian-chinese dish. Easy to cook just add and mix everything.

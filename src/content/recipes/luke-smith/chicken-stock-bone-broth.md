@@ -2,7 +2,6 @@
 title: "Chicken Stock or Bone Broth"
 date: 2021-03-10
 tags: ['chicken', 'stock', 'basic']
-author: luke-smith
 ---
 
 Chicken stock, or "bone broth" is not a final dish in itself, but is used in many soups and other dishes to add great taste to something otherwise very simple.

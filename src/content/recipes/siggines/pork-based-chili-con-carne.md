@@ -2,7 +2,6 @@
 title: "Chilli con Carne"
 date: 2021-03-12
 tags: ['mexican', 'beans', 'pork']
-author: siggines
 ---
 
 Thinly minced and non-lean mince is preferred.

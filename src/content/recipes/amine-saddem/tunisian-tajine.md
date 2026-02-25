@@ -2,7 +2,6 @@
 title: "Tunisian Tajine (laidback version)"
 date: 2025-03-25
 tags: ['tunisian', 'baked', 'meat', 'vegetables', 'mediterranean', 'oven']
-author: "amine-saddem"
 ---
 
 Tunisian Tajine is a baked, potato & egg based dish that’s rich, hearty, and full of love. Packed with potatoes, cheese and meat, it’s a comforting and satisfying meal.

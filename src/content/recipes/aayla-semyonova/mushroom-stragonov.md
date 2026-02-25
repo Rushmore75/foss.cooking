@@ -2,7 +2,6 @@
 title: "Mushroom Stroganov"
 date: 2021-05-13
 tags: ['russian', 'pasta', 'mushrooms']
-author: aayla-semyonova
 ---
 
 Prep time: 10 Minutes

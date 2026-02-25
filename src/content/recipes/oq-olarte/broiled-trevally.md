@@ -2,7 +2,6 @@
 title: "Broiled Trevally"
 date: 2021-03-10
 tags: ['fish', 'cheesefare']
-author: oq-olarte
 ---
 
 Well, it's actually a *giant* trevally, and if you have seen one, that fish looks ugly.

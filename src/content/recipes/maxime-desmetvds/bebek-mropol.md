@@ -2,7 +2,6 @@
 title: Bebek Mropol
 tags: ['duck', 'indonesian']
 date: 2022-02-20
-author: maxime-desmetvds
 ---
 
 Bebek Mprol is a traditional Indonesian dish made with duck, coconut milk, and

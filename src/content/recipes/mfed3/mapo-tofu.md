@@ -2,7 +2,6 @@
 title: "Mapo Tofu (麻婆豆腐)"
 date: 2021-05-13
 tags: ['chinese', 'pork', 'tofu']
-author: mfed3
 ---
 
 ![Mapo Tofu Over Rice](/pix/mapo-tofu-01.webp)

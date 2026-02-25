@@ -2,7 +2,6 @@
 title: "Breakfast Wrap"
 date: 2021-03-21
 tags: ['breakfast', 'quick', 'basic', 'eggs']
-author: "Linux Lounge"
 ---
 
 The basic parts of a full English in a wrap. Inspired by McDonald's breakfast wraps.

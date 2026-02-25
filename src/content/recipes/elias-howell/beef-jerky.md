@@ -2,7 +2,6 @@
 title: "Beef Jerky"
 date: 2021-03-11
 tags: ['beef', 'snack']
-author: elias-howell
 ---
 
 Beef Jerky is ideal for road trips and camping, as it will not perish as readily as fresh meat.

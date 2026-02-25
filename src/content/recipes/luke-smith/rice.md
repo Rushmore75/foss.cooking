@@ -2,7 +2,6 @@
 title: "Rice"
 date: 2021-03-10
 tags: ['basic', 'rice', 'side', 'fasting']
-author: luke-smith
 ---
 
 Rice is easy to make in any pot.

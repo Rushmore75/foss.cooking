@@ -2,7 +2,6 @@
 title: "Lamb Biriyani"
 date: 2021-03-21
 tags: ['lamb', 'mutton', 'indian']
-author: ram-pari
 ---
 
 This recipe makes an Southern Indian (Tamil) style Lamb biriyani that has been adapted to a more western audience (aka a bit less spicy)

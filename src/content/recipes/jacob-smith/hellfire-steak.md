@@ -2,7 +2,6 @@
 title: "Hellfire Steak"
 date: 2021-03-13
 tags: ['beef', 'quick']
-author: jacob-smith
 ---
 
 I first learned this recipe from a Bishop I had growing up. It produces quite a good steak despite the unconventional ingredients.

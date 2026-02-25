@@ -2,7 +2,6 @@
 title: "Pepper Sauce"
 date: 2021-03-23
 tags: ['sauce', 'steak']
-author: "Vili Kangas"
 ---
 
 A very basic pepper sauce that is great for steaks and other dishes

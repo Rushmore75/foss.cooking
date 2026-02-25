@@ -2,7 +2,6 @@
 title: Turmeric Flatbread
 tags: ['bread', 'turkish']
 date: 2022-08-09
-author: joel-maxuel
 ---
 
 A great companion to Turkish Red Lentil Soup.

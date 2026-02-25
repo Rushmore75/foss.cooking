@@ -2,7 +2,6 @@
 title: "Caesar Salad"
 date: 2021-03-11
 tags: ['italian', 'salad', 'cheesefare']
-author: "gucko"
 ---
 
 ![caesar_salad](/pix/csalad.webp)

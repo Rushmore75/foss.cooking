@@ -2,7 +2,6 @@
 title: "Fried Potatoes"
 date: 2021-03-12
 tags: ['potato', 'quick', 'side', 'fasting']
-author: themisch
 ---
 
 ## Ingredients

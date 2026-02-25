@@ -2,7 +2,6 @@
 title: "Shepherd's Pie"
 date: 2021-03-30
 tags: ['english', 'lamb', 'pie']
-author: lázaro-blanc
 ---
 
 - ⏲️ Prep time: 50 - 60 min

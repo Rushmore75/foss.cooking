@@ -2,7 +2,6 @@
 title: "Tomato and Grilled Bell Pepper soup"
 date: 2021-03-15
 tags: ['soup', 'cheesefare']
-author: thijs-wester
 ---
 
 - 🍳 Cook time: 30 min

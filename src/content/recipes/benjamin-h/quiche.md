@@ -1,7 +1,6 @@
 ---
 title: Quiche Lorraine - Lothringer Käsetorte
 date: 2022-05-17
-author: benjamin-h
 tags: ['cheese', 'french', 'ham']
 ---
 

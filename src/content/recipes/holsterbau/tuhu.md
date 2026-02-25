@@ -2,7 +2,6 @@
 title: "Tuh'u"
 date: 2021-03-23
 tags: ['lamb', 'stew']
-author: holsterbau
 ---
 
 Tuh'u (Akkadian for possibly "beetroot") is an ancient Mesopotamian spring festival dish, a lamb stew of sorts, extracted by historians at

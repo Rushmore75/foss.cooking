@@ -2,7 +2,6 @@
 title: "Sticky Porkchops"
 date: 2021-03-12
 tags: ['japanese', 'pork', 'soup']
-author: jake-keast
 ---
 
 Simple chinese inspired sticky porkchops.

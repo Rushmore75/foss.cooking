@@ -2,7 +2,6 @@
 title: "Chicken Wings"
 date: 2021-03-10
 tags: ['chicken', 'american']
-author: kyle-steger
 ---
 
 Perfectly cooked fall off the bone buffalo wings.

@@ -2,7 +2,6 @@
 title: "Butter Cake"
 tags: ['dessert', 'sweet', 'snack']
 date: 2024-08-25
-author: "Michael"
 ---
 
 ⏲️ Prep time: 10 min

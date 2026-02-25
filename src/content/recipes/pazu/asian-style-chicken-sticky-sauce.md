@@ -2,7 +2,6 @@
 title: "Asian Style Chicken with Sticky Sauce"
 date: 2021-03-23
 tags: ['asian', 'chicken']
-author: pazu
 ---
 
 Asian style crispy coated chicken with sweetish sauce recipe. Served with boiled rice.

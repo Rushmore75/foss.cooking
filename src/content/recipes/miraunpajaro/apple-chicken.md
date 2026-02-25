@@ -2,7 +2,6 @@
 title: "Apple Chicken"
 tags: ['spanish', 'chicken', 'oven', 'apple']
 date: 2022-07-11
-author: miraunpajaro
 ---
 
 ![Applechicken](/pix/apple_chicken.webp)

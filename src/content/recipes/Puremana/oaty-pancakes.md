@@ -2,7 +2,6 @@
 title: "Oaty Pancakes"
 date: 2021-03-13
 tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
-author: "Puremana"
 ---
 
 - ⏲️ Prep time: 10 min

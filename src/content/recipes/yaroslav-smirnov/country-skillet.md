@@ -2,7 +2,6 @@
 title: "Country Breakfast Skillet"
 date: 2021-03-12
 tags: ['american', 'breakfast', 'pork']
-author: yaroslav-smirnov
 ---
 
 ![Country Breakfast Skillet](/pix/country-skillet.webp)

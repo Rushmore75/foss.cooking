@@ -2,7 +2,6 @@
 title: Lithuanian Cold Borscht
 tags: ['soup', 'russian', 'lithuanian', 'baltic', 'beetroot']
 date: 2025-01-15
-author: "Georgii Bondarev"
 ---
 
 ![Lithuanian Cold Borscht in a bowl](/pix/lithuanian-cold-borscht.webp)

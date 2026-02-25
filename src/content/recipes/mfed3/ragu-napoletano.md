@@ -2,7 +2,6 @@
 title: "Ragu Napoletano"
 date: 2021-05-13
 tags: ['tomato', 'sauce', 'italian', 'pork', 'veal']
-author: mfed3
 ---
 
 This recipe is known by Italian-Americans as "Sunday Gravy", which originated from the Southern Italian dish Ragu Napoletano. This is my variation of my family's version which was passed down 3 generations to me.

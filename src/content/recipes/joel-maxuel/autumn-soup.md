@@ -2,7 +2,6 @@
 title: Autumn Soup
 tags: ['vegetables', 'soup']
 date: 2022-08-04
-author: joel-maxuel
 ---
 
 You can cook the veggies on the stove instead of baking them, just pay more attention to avoid burning. You can also use pumpkin instead of squash.

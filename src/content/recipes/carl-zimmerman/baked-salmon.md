@@ -2,7 +2,6 @@
 title: "Baked Salmon"
 date: 2021-03-17
 tags: ['basic', 'fish']
-author: carl-zimmerman
 ---
 
 Simple method for making a good serving of salmon. Goes well with just about anything.

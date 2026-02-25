@@ -1,7 +1,6 @@
 ---
 title: "Lavacake"
 date: 2022-05-17
-author: benjamin-h
 tags: ['chocolate', 'dessert', 'quick']
 ---
 

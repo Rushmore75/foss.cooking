@@ -2,7 +2,6 @@
 title: "Stoofvlees"
 date: 2021-03-21
 tags: ['beef', 'stew', 'belgian']
-author: yiusa
 ---
 
 This is a traditional belgian stew made with cheap, though beef cuts, beer and onions.

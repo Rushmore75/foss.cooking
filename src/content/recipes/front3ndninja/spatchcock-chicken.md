@@ -2,7 +2,6 @@
 title: "Spatchcock Chicken"
 date: 2021-03-15
 tags: ['basic', 'bread', 'chicken']
-author: front3ndninja
 ---
 
 ## Ingredients

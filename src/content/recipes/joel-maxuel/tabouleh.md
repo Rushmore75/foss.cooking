@@ -2,7 +2,6 @@
 title: Tabouleh
 tags: ['salad', 'mediterranean']
 date: 2022-09-10
-author: joel-maxuel
 ---
 
 

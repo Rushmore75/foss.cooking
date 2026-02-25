@@ -2,7 +2,6 @@
 title: "Banana Bread"
 date: 2021-03-11
 tags: ['bread', 'dessert', 'sweet', 'fasting']
-author: martin-chrzanowski
 ---
 
 Not too sweet. Great for when you have friends over for tea.

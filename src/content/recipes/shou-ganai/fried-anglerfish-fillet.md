@@ -2,7 +2,6 @@
 title: "Fried Anglerfish fillet"
 date: 2021-03-12
 tags: ['fish', 'seafood']
-author: shou-ganai
 ---
 
 ![anglerfish](/pix/fried-anglerfish-fillet-00.webp)

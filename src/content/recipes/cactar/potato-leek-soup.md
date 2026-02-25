@@ -2,7 +2,6 @@
 title: "Potato Leek Soup"
 date: 2021-03-18
 tags: ['potato', 'soup', 'vegetables', 'cheesefare']
-author: cactar
 ---
 
 ![potato leek soup](/pix/potato-leek-soup.webp)

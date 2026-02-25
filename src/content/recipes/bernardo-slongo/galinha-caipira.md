@@ -2,7 +2,6 @@
 title: Galinha Caipira
 tags: ['chicken', 'stew', 'brazilian']
 date: 2022-11-16
-author: "bernardo-slongo"
 ---
 
 Chicken stew ubiquitous in rural Brazil. Perfect pair with rice and beans, polenta or boiled cassava root.

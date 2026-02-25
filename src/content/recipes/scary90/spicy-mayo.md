@@ -2,7 +2,6 @@
 title: "Spicy Mayo"
 date: 2021-03-30
 tags: ['basic', 'sauce', 'japanese']
-author: "scary90"
 ---
 
 A simple sauce that is at almost every sushi bar in the United States.

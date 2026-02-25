@@ -2,7 +2,6 @@
 title: Wholemeal Pizza
 tags: ['wholemeal', 'pizza', 'italian']
 date: 2022-07-15
-author: "leo-meinel"
 ---
 
 ![Wholemeal-Pizza](/pix/wholemeal-pizza.webp)

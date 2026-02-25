@@ -2,7 +2,6 @@
 title: "Shrimp and Sausage Gumbo"
 date: 2021-03-15
 tags: ['american', 'fish', 'rice']
-author: carl-zimmerman
 ---
 
 This recipe is a simplified version of AB's Seafood Gumbo -- [youtube](https://youtu.be/XuiKYWb7s5o)

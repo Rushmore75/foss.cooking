@@ -2,7 +2,6 @@
 title: "Kvass"
 date: 2021-03-21
 tags: ['drink', 'bread']
-author: holsterbau
 ---
 
 [Kvass](https://en.wikipedia.org/wiki/Kvass) is a Slavic fermented beverage which is both simple to make and rich in flavour.

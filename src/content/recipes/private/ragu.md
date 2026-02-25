@@ -2,7 +2,6 @@
 title: "Ragù"
 date: 2021-03-11
 tags: ['italian', 'pasta', 'cheesefare', 'fasting']
-author: "private"
 ---
 
 ## Ingredients

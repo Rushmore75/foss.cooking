@@ -2,7 +2,6 @@
 title: Cheesy Ham and Potato Bake
 tags: ['pork', 'potato', 'cheese', 'finnish']
 date: 2022-10-14
-author: "NestNik"
 ---
 
 ![Cheesy ham and potato bake](/pix/cheesy-ham-and-potato-bake.webp)

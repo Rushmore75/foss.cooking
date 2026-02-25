@@ -2,7 +2,6 @@
 title: Ray Peat's Carrot Salad
 tags: ['fasting', 'vegetables']
 date: 2022-06-01
-author: "Rami Shafikov"
 ---
 
 A raw carrot salad to support digestive, hormone and thyroid health

@@ -2,7 +2,6 @@
 title: Fall Vegetable and Chickpea Curry
 tags: ['fasting', 'curry']
 date: 2022-08-09
-author: joel-maxuel
 ---
 
 ![fall-vegetable-and-chickpea-curry](/pix/fall-vegetable-and-chickpea-curry.webp)

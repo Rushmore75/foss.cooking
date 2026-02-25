@@ -2,7 +2,6 @@
 title: Beijinho
 tags: ['dessert', 'coconut', 'traditional', 'brazilian']
 date: 2024-10-15
-author: "Georis Samuel"
 ---
 
 ![Beijinho](/pix/beijinho.webp)

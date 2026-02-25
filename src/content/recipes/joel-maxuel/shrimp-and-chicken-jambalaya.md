@@ -2,7 +2,6 @@
 title: Shrimp and Chicken Jambalaya
 tags: ['shrimp', 'chicken', 'cajun', 'tomato']
 date: 2022-08-04
-author: joel-maxuel
 ---
 
 Warm up your stock with raw shrimp shells to infuse additional flavour, if desired. Serve dish with french bread and your favourite beer.

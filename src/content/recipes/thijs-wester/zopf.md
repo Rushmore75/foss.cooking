@@ -2,7 +2,6 @@
 title: "Zopf"
 date: 2021-03-15
 tags: ['swiss', 'bread', 'cheesefare']
-author: thijs-wester
 ---
 
 - ⏲️ Prep time: 30 min (plus one hour rising)

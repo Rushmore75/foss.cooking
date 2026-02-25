@@ -2,7 +2,6 @@
 title: "Red Sauce (Ragu all'Italiana)"
 date: 2021-03-16
 tags: ['italian', 'sauce']
-author: laurent-micheli
 ---
 
 My great-grandma's red sauce. All purpose: good for pastas, lasagnas, subs, etc.

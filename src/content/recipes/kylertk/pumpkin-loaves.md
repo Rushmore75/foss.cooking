@@ -2,7 +2,6 @@
 title: Pumpkin Loaves
 tags: ['pumpkin', 'dessert', 'sweet', ' cheesefare']
 date: 2023-02-24
-author: "kylertk"
 ---
 
 - ⏲️ Prep time: 20 min

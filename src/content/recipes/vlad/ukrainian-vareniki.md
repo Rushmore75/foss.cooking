@@ -2,7 +2,6 @@
 title: "Ukrainian Vareniki"
 date: 2021-04-06
 tags: ['ukrainian', 'dumpling', 'potato']
-author: vlad
 ---
 
 (Vareniki/Dumplings) Vareniki are popular all over the world, but abroad they have different names.

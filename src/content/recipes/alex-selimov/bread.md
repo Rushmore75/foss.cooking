@@ -2,7 +2,6 @@
 title: "Bread"
 date: 2021-03-10
 tags: ['basic', 'bread', 'fasting']
-author: alex-selimov
 ---
 
 ![Finished bread in its baking mold](/pix/bread.webp)

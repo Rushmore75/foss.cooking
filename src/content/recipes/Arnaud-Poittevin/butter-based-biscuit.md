@@ -1,6 +1,5 @@
 ---
 title: 'Butter-based biscuit and cookies'
-author: 'Arnaud Poittevin'
 date: 2022-06-29
 tags: ['snack', 'side', 'dough']
 ---

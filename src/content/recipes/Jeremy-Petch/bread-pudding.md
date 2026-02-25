@@ -2,7 +2,6 @@
 title: Bread Pudding
 tags: ['dessert', 'bread', 'sweet', 'spice']
 date: 2022-09-02
-author: 'Jeremy Petch'
 ---
 
 ![Bread Pudding](/pix/bread-pudding.webp)

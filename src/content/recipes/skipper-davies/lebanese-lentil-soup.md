@@ -2,7 +2,6 @@
 title: "Lebanese Lentil Soup"
 date: 2021-03-30
 tags: ['soup', 'mediterranean', 'lebanese']
-author: skipper-davies
 ---
 Lebanese-Style Lentil Soup with Swiss Chard and Lemon
 

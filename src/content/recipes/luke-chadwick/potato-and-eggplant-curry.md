@@ -2,7 +2,6 @@
 title: "Potato and Eggplant (Aubergine) Curry"
 date: 2021-03-11
 tags: ['indian', 'curry', 'potato', 'fasting']
-author: luke-chadwick
 ---
 
 A simple and tasty curry that is easy to customise.

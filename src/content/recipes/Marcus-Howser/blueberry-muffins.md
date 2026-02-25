@@ -2,7 +2,6 @@
 title: "Blueberry Muffins"
 date: 2022-06-10
 tags: ['blueberry', 'muffins', 'baking', 'oven']
-author: "Marcus Howser"
 ---
 
 ⏲️ Prep time: 10 min  

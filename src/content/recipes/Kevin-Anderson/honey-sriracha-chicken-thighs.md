@@ -1,7 +1,6 @@
 ---
 title: "Honey Sriracha Chicken Thighs"
 tags: ['chicken', 'spicy']
-author: "Kevin Anderson"
 date: 2022-04-16
 ---
 

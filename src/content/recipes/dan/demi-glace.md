@@ -2,7 +2,6 @@
 title: "Demi-glace"
 date: 2021-03-29
 tags: ['sauce', 'basic', 'french']
-author: dan
 ---
 
 This is a take on a traditional demi-glace without needing to buy an astronomically large amount of veal bones. Use this as your main base for pan sauces, an extra flavor bomb, or a replacement for recipes that call for broth or stock.

@@ -2,7 +2,6 @@
 title: "Turkish Yogurt Soup"
 date: 2021-03-24
 tags: ['turkish', 'rice', 'soup']
-author: digi
 ---
 
 - ⏲️ Prep time: 15 min

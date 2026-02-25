@@ -2,7 +2,6 @@
 title: "Tomato Flavored Hamburger and Macaroni"
 date: 2021-03-14
 tags: ['beef', 'pasta', 'supper']
-author: ryan-wilson
 ---
 
 ![Tomato Flavored Hamburger and Macaroni](/pix/tomato-flavored-hamburger-macaroni.webp)

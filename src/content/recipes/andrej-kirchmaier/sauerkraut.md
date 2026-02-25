@@ -2,7 +2,6 @@
 title: "Sauerkraut"
 date: 2021-03-11
 tags: ['german', 'cabbage', 'side', 'fasting']
-author: andrej-kirchmaier
 ---
 
 ![Sauerkraut](/pix/sauerkraut.webp)

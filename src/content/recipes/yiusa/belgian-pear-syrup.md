@@ -2,7 +2,6 @@
 title: "Belgian pear syrup"
 date: 2021-03-21
 tags: ['syrup', 'fruit', 'belgian']
-author: yiusa
 ---
 
 A delicious syrup that can be eaten on bread and used in a multitude of recipes.

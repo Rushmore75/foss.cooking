@@ -2,7 +2,6 @@
 title: "Bolo do Caco (Caco Bread)"
 date: 2021-03-23
 tags: ['bread', 'portuguese']
-author: joão-freitas
 ---
 
 _A traditional Madeiran-Portuguese Bread_

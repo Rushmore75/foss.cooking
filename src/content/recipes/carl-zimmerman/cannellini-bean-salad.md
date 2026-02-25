@@ -2,7 +2,6 @@
 title: "Cannellini Bean Salad"
 date: 2021-03-17
 tags: ['beans', 'italian', 'salad']
-author: carl-zimmerman
 ---
 
 - ⏲️ Prep time: 5 min

@@ -2,7 +2,6 @@
 title: "Creamy Mashed Potatoes"
 date: 2021-03-12
 tags: ['potato', 'side', 'cheesefare']
-author: yaroslav-smirnov
 ---
 
 ![Creamy Mashed Potatoes](/pix/creamy-mashed-potatoes.webp)

@@ -2,7 +2,6 @@
 title: "Nashville Chicken Sandwich"
 date: 2021-03-21
 tags: ['chicken', 'spicy']
-author: "private"
 ---
 
 If you love spicy foods and chicken then this Nashville Hot Chicken sandwich recipe is just for you. It takes some time with prepping and process but when you take that first bite all the effort will be worth it. It’s unlike any other fried chicken recipe that includes double frying your chicken and using the same cooking oil from your fry as a sauce for the Nashville Hot Chicken spice.

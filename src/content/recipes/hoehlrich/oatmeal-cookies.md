@@ -2,7 +2,6 @@
 title: Oatmeal Cookies
 tags: ['dessert', 'cookies']
 date: 2023-07-29
-author: "hoehlrich"
 ---
 
 - Prep time: 20 min

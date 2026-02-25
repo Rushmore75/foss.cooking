@@ -2,7 +2,6 @@
 title: 'Dulce de Leche'
 tags: ['argentinian', 'milk', 'slowcooked', 'traditional']
 date: 2022-07-14
-author: "bernardo-slongo"
 ---
  
 Delicious milk toffee used on desserts or as a spread. Substitute for Nootella or similar "food". It is very demanding, so i only recommend you make it if you either can't buy industrial dulce de leche (It will be way more natural than other sweets anyway), or have the time and interest to go through the process. It can be made more easily with sweetened condensed milk, but if you have access to it, you can get DDL anyways.    

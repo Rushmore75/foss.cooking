@@ -2,7 +2,6 @@
 title: "Carbonade Flamande (Traditional Flemish beef stew)"
 date: 2021-03-10
 tags: ['stew', 'beef']
-author: "1FJSSps89rEMtYm8Vvkp2uyTX9MFpZtcGy"
 ---
 
 This one is a delicious slow cooked beef stewed in beer.

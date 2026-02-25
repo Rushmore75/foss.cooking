@@ -2,7 +2,6 @@
 title: Grostoli 
 tags: ['fry', 'italian', 'brazilian']
 date: 2022-09-21
-author: "bernardo-slongo"
 ---
 
 Very popular fritter in Italian colonies throughout South Brazil. Not to be mistaken with Venetian Crostoli or Chiacchiere, even though those are still made. My grandmother's recipe is more like Castagnole with Crostoli shape, with some post-Italian adaptations. 

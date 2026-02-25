@@ -2,7 +2,6 @@
 title: "Slow-cooked Chicken Tacos"
 date: 2021-03-10
 tags: ['mexican', 'chicken', 'slowcooked']
-author: luke-smith
 ---
 
 ## Ingredients

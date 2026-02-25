@@ -2,7 +2,6 @@
 title: "Cooked Chickpeas"
 date: 2021-03-17
 tags: ['basic', 'beans', 'fasting']
-author: carl-zimmerman
 ---
 
 Easy recipe for cooked chickpeas. Can be add to salads, rice, or almost anything else.

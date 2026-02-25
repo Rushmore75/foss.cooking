@@ -2,7 +2,6 @@
 title: "Lasagna"
 date: 2021-03-21
 tags: ['italian', 'pasta']
-author: yiusa
 ---
 
 ![lasagna](/pix/lasagna.webp)

@@ -2,7 +2,6 @@
 title: "Liver Pate"
 date: 2021-03-11
 tags: ['pate', 'liver']
-author: vod3
 ---
 
 Good start for trying to eat more organs.

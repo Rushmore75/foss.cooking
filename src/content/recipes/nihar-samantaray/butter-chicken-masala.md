@@ -2,7 +2,6 @@
 title: "Butter Chicken Masala Curry"
 date: 2021-03-15
 tags: ['indian', 'curry', 'chicken']
-author: nihar-samantaray
 ---
 
 ![Butter Chicken Masala](/pix/butter-chicken-masala.webp)

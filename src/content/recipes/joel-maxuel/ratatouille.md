@@ -2,7 +2,6 @@
 title: Ratatouille
 tags: ['soup', 'french', 'tomato']
 date: 2022-08-04
-author: joel-maxuel
 ---
 
 - ⏲️ Prep time: 12 min

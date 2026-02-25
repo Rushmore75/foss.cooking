@@ -2,7 +2,6 @@
 title: "Beef Goulash"
 date: 2021-03-12
 tags: ['beef', 'stew', 'hungarian']
-author: yaroslav-smirnov
 ---
 
 ![Beef Goulash](/pix/beef-goulash.webp)

@@ -2,7 +2,6 @@
 title: "Brown Sauce"
 date: 2021-03-23
 tags: ['sauce']
-author: "Vili Kangas"
 ---
 
 A very basic sauce that can be used for various dishes.

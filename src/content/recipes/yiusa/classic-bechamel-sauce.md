@@ -2,7 +2,6 @@
 title: "Classic béchamel sauce"
 date: 2021-03-21
 tags: ['basic', 'sauce', 'french', 'italian']
-author: yiusa
 ---
 
 Classic French sauce, base for a lot of dishes

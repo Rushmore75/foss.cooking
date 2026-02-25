@@ -2,7 +2,6 @@
 title: "Greek Yogurt"
 date: 2022-04-16
 tags: ['basic', 'cheesefare']
-author: "SuperDuperDeou" 
 ---
 
 ## Ingredients

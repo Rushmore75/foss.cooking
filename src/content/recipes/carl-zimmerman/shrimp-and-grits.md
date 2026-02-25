@@ -2,7 +2,6 @@
 title: "Shrimp and Grits"
 date: 2021-03-18
 tags: ['american', 'fish', 'breakfast']
-author: carl-zimmerman
 ---
 
 This recipe is derived from Smokin' & Grillin' wit AB -- [youtube](https://youtu.be/cjlDBPlTqS0)

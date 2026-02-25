@@ -2,7 +2,6 @@
 title: "Torrijas"
 date: 2021-03-30
 tags: ['spanish', 'dessert', 'quick', 'easter']
-author: danoloan
 ---
 
 ![Torrijas](/pix/torrijas.webp)

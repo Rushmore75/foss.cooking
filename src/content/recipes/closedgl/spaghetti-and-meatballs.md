@@ -2,7 +2,6 @@
 title: "Spaghetti and Meatballs"
 date: 2021-03-13
 tags: ['italian', 'pasta', 'beef', 'pork', 'cheesefare']
-author: closedgl
 ---
 
 - ⏲️Prep time: 20 min

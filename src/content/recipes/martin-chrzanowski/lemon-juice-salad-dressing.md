@@ -2,7 +2,6 @@
 title: "Lemon juice salad dressing"
 date: 2021-03-16
 tags: ['salad', 'basic', 'fasting']
-author: martin-chrzanowski
 ---
 
 A dressing that goes well on lettuce or any other mixed greens.

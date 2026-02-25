@@ -2,7 +2,6 @@
 title: "Irish Coffee"
 date: 2021-03-19
 tags: ['drink', 'sweet', 'breakfast']
-author: front3ndninja
 ---
 
 - ⏲️ Prep time: 5 min

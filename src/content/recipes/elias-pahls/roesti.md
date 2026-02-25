@@ -2,7 +2,6 @@
 title: "Rösti"
 date: 2021-03-12
 tags: ['swiss', 'potato', 'side', 'cheesefare']
-author: elias-pahls
 ---
 
 ![Rösti](/pix/roesti.webp)

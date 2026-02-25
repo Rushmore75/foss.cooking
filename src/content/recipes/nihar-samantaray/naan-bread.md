@@ -2,7 +2,6 @@
 title: "Naan Bread"
 date: 2021-03-15
 tags: ['indian', 'bread', 'fasting']
-author: nihar-samantaray
 ---
 
 ![Naan Bread](/pix/naan-bread.webp)

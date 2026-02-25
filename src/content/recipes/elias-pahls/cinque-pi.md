@@ -2,7 +2,6 @@
 title: "Cinque Pi"
 date: 2021-03-19
 tags: ['italian', 'pasta', 'quick']
-author: elias-pahls
 ---
 
 ![Cinque Pi](/pix/cinque-pi.webp)

@@ -2,7 +2,6 @@
 title: "Baba's Feta Pasta"
 date: 2021-03-21
 tags: ['greek', 'feta', 'pasta', 'supper']
-author: peepopoggers
 ---
 
 Greek Pasta Recipe with sauce made out of feta, stock, cream cheese and other ingredients.

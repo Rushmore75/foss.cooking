@@ -2,7 +2,6 @@
 title: Korv Stroganoff
 tags: ['swedish', 'quick', 'sausage']
 date: 2022-07-16
-author: "private"
 ---
 
 ![Korv Stroganoff](/pix/korv-stroganoff.webp)

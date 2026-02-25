@@ -2,7 +2,6 @@
 title: "Cheesy Potato Bake"
 date: 2021-03-21
 tags: ['american', 'cheese', 'potato']
-author: "Kyle Johnson and Sabina Mortensen"
 ---
 
 Potatoes baked in a dish smothered with cheese, what's not to love?

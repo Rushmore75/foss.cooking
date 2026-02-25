@@ -2,7 +2,6 @@
 title: "Basic Meatballs"
 date: 2021-03-25
 tags: ['basic', 'italian', 'beef', 'pork']
-author: john-hubberts
 ---
 Hybrid beef/pork meatballs perfect for spaghetti and meatballs or a meatball sub.
 

@@ -2,7 +2,6 @@
 title: "Chocolate Chip Cookies "
 date: 2021-05-13
 tags: ['dessert', 'cookies', 'sweet', 'chocolate']
-author: mfed3
 ---
 
 ![Chocolate Chip Cookies](/pix/chocolate-chip-cookies.webp)

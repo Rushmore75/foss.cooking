@@ -2,7 +2,6 @@
 title: "Pasta Alla Norma"
 date: 2021-03-22
 tags: ['italian', 'pasta', 'fasting']
-author: james-kent
 ---
 
 A delicious Sicilian pasta dish, with Aubergines in a tomato sauce topped with fresh basil.

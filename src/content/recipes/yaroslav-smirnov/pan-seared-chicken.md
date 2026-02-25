@@ -2,7 +2,6 @@
 title: "Pan-seared Chicken Fillet"
 date: 2021-03-12
 tags: ['chicken', 'fry']
-author: yaroslav-smirnov
 ---
 
 ![Juicy Pan-seared Chicken Fillet](/pix/pan-seared-chicken.webp)

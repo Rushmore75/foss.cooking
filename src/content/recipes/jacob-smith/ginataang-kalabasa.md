@@ -2,7 +2,6 @@
 title: "Ginataang Kalabasa"
 date: 2021-03-13
 tags: ['filipino', 'squash']
-author: jacob-smith
 ---
 
 Or "Squash in Coconut Milk". This is a common Filipino dish.

@@ -2,7 +2,6 @@
 title: "Quarkbällchen – Fried curd balls"
 date: 2021-04-15
 tags: ['german', 'fry', 'sweet', 'cheesefare']
-author: kirill-schmidt
 ---
 
 ![An image of my finished curd balls](/pix/quarkbaellchen.webp)

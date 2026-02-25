@@ -2,7 +2,6 @@
 title: "Oatmeal Pancakes"
 date: 2021-04-15
 tags: ['breakfast', 'sweet', 'dessert', 'pancake']
-author: "wpnwbn"
 ---
 ![oatmeal-pancakes](/pix/oatmeal-pancakes.webp)
 

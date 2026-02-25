@@ -2,7 +2,6 @@
 title: Kaiserschmarrn
 tags: ['sweets', 'sweet', 'german', 'austrian']
 date: 2023-04-30
-author: "Felix Steiner"
 ---
 
 A very recognizable and simple sweet dish from the mountainous regions of Austria, southern Germany and northern Italy.

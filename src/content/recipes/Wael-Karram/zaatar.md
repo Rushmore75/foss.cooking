@@ -2,7 +2,6 @@
 title:	"Zaatar"
 date:	2022-09-30
 tags:	['palestinian', 'lebanese', 'mediterranean', 'middle eastern', 'spice']
-author:	Wael Karram
 ---
 
 This is a traditional Palestinian-Lebanese way of making Zaatar.

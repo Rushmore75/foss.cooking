@@ -2,7 +2,6 @@
 title: Exotic Ginger Cumin Chicken
 tags: ['chicken']
 date: 2022-09-11
-author: joel-maxuel
 ---
 
 

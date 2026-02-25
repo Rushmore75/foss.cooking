@@ -1,6 +1,5 @@
 ---
 title: 'Shrimp Fettuccine Alfredo'
-author: bilovytskyy
 tags: ['pasta', 'italian', 'shrimp']
 date: 2022-06-29
 ---

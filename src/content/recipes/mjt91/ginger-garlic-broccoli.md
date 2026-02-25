@@ -2,7 +2,6 @@
 title: "Broccoli with Ginger and Garlic Sauce"
 date: 2021-03-15
 tags: ['side', 'quick', 'asian', 'fasting']
-author: mjt91
 ---
 
 Asian inspired broccoli dish with tasty sauce. Sauce can be used for all kinds of Asian inspired sauted vegetables.

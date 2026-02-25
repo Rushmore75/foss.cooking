@@ -1,6 +1,5 @@
 ---
 title: "Spicy Sausage Pasta"
-author: tom-cotter
 date: 2022-05-31
 tags: ['italian','sausage','pork','pasta','cream','spicy']
 ---

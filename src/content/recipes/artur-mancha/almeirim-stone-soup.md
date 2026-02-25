@@ -2,7 +2,6 @@
 title: "Almeirim Stone Soup"
 date: 2021-03-10
 tags: ['portuguese', 'soup', 'pork']
-author: artur-mancha
 ---
 
  It is truly emblematic of Portuguese cuisine, as it uses all of the ingredients available in order to waste no food.

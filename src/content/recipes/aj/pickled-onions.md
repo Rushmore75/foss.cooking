@@ -2,7 +2,6 @@
 title: "Pickled Red Onions"
 date: 2021-03-16
 tags: ['quick', 'side', 'basic']
-author: aj
 ---
 ![Pickled Red Onions in  a Jar](/pix/pickled-onions.webp)
 

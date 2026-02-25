@@ -2,7 +2,6 @@
 title: "Stuffed Round Squash"
 date: 2021-03-13
 tags: ['supper', 'rice', 'vegetables', 'cheesefare', 'fasting']
-author: "Marco Fleres"
 ---
 
 ![](/pix/stuffed-round-squash-02.webp)

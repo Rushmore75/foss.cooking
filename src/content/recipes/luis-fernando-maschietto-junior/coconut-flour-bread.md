@@ -2,7 +2,6 @@
 title: Keto Coconut Bread
 tags: ['bread', 'coconut', 'baked', 'keto', 'bariatric']
 date: 2022-11-16
-author: "luis-fernando-maschietto-junior"
 ---
 ![keto-coconut-bread](/pix/coconutbread-lufemas.webp)
 

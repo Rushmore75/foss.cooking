@@ -2,7 +2,6 @@
 title: "Tanzanian Tea w/ Milk"
 date: 2021-04-20
 tags: ['drink', 'milk', 'quick']
-author: extramundane
 ---
 
 ![tea-n-milk](/pix/tanzania-tea-with-milk-01.webp)

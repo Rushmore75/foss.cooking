@@ -2,7 +2,6 @@
 title: "Chicken Pasta Casserole"
 date: 2021-03-12
 tags: ['chicken', 'italian', 'pasta']
-author: miika-nissi
 ---
 
 ![Chicken Pasta Casserole](/pix/chicken-pasta-casserole.webp)

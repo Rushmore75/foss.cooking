@@ -2,7 +2,6 @@
 title: "Traditional beef or lamb stew"
 date: 2021-03-10
 tags: ['irish', 'stew', 'lamb', 'beef']
-author: eoin-coogan
 ---
 
 This is a recipe for a typical Irish stew. This is traditionally made with lamb since it's cheaper however, beef tastes a lot better and is more readily available in North America I've been told. This is good if you want to feed a family or if you just want to be lazy and eat the same thing for 2 or 3 days. Besides browning the meat this is really just throwing stuff into a pot in a certain order. This is the kind of dish that tastes better the next day so it's ideal for making on a Sunday and eating for the next 2 or 3 days.

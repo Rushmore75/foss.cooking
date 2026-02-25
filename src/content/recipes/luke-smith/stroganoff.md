@@ -2,7 +2,6 @@
 title: "Beef Stroganoff"
 date: 2021-03-10
 tags: ['american', 'beef']
-author: luke-smith
 ---
 
 This is American-style stroganoff.

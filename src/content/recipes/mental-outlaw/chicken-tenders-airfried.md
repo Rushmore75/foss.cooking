@@ -2,7 +2,6 @@
 title: "Chicken Tenders Airfried"
 date: 2021-05-08
 tags: ['chicken', 'fry']
-author: mental-outlaw
 ---
 
 - ⏲️ Prep time: 5 min

@@ -2,7 +2,6 @@
 title: "Peanut Butter"
 date: 2021-03-13
 tags: ['spread', 'snack', 'basic', 'fasting']
-author: jacob-smith
 ---
 
 ## Ingredients

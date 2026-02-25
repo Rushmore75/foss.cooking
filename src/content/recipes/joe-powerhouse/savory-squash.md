@@ -2,7 +2,6 @@
 title: "Savory Squash"
 date: 2021-03-21
 tags: ['american', 'side', 'fruit']
-author: joe-powerhouse
 ---
 
 - Prep Time: 5 mins

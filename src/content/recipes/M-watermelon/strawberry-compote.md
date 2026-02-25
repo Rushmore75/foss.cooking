@@ -2,7 +2,6 @@
 title: 'Strawberry Compote'
 tags: ['russian', 'fruit', 'drink']
 date: 2022-11-16
-author: "M-watermelon"
 ---
 ![Strawberry Compote](/pix/glass-of-compote.webp)
 

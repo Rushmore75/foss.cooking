@@ -2,7 +2,6 @@
 title: "No-knead pizza dough"
 date: 2021-03-21
 tags: ['basic', 'pizza', 'dough']
-author: brox
 ---
 
 Perfect for pan pizza in an 11 inch iron skillet.

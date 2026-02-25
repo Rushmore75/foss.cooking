@@ -2,7 +2,6 @@
 title: "Garlic Toast"
 date: 2021-03-23
 tags: ['basic', 'bread', 'quick', 'side']
-author: jack-crawford
 ---
 
 Garlic toast, perfect as a substitute for crackers in a cheese platter.

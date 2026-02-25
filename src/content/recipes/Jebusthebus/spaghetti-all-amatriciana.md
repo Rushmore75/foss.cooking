@@ -2,7 +2,6 @@
 title: "Spaghetti all'amatriciana"
 date: 2021-03-24
 tags: ['italian', 'pasta']
-author: "Jebusthebus"
 ---
 
 Ignore the fact that those in the photo are pennette and not spaghetti, that's all I had that day.

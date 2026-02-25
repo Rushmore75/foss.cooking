@@ -2,7 +2,6 @@
 title: "Bolognese Sauce"
 date: 2021-03-23
 tags: ['sauce', 'italian', 'pasta']
-author: tait
 ---
 
 ![Bolognese sauce](/pix/bolognese-sauce-1.webp)

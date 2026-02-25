@@ -2,7 +2,6 @@
 title: "Fresh Guacamole"
 date: 2021-03-12
 tags: ['mexican', 'spread', 'snack', 'fasting']
-author: yaroslav-smirnov
 ---
 
 ![Fresh Guacamole](/pix/guacamole.webp)

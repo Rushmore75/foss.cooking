@@ -2,7 +2,6 @@
 title: "Sourdough starter"
 date: 2021-03-23
 tags: ['bread', 'sourdough', 'basic']
-author: "Vili Kangas"
 ---
 
 This recipe contains instructions for sourdough starter needed for all sourdough breads. The starter can be done with either wheat flour or rye flour for rye breads. Prefer organic flours as they contain most wild yeasts.

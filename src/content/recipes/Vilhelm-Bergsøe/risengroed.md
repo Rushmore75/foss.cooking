@@ -2,7 +2,6 @@
 title: Risengrød
 tags: ['danish', 'christmas']
 date: 2022-11-16
-author: "Vilhelm Bergsøe"
 ---
 
 ![risen groed](/pix/risengroed.webp)

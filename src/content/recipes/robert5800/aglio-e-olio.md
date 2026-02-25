@@ -2,7 +2,6 @@
 title: "Spaghetti aglio e olio"
 date: 2021-03-21
 tags: ['italian', 'pasta']
-author: robert5800
 ---
 
 Aglio e olio, pasta with garlic and olive oil, is one of the simplest yet greatest pasta dishes of all time. It's quick, easy, and uses a lot of basic pantry ingredients which makes this a convenient weeknight meal.

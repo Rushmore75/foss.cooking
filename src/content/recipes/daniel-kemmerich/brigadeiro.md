@@ -2,7 +2,6 @@
 title: "Brigadeiro"
 date: 2021-03-16
 tags: ['dessert', 'quick', 'brazilian', 'cheesefare']
-author: daniel-kemmerich
 ---
 
 ![Brigadeiro](/pix/brigadeiro.webp)

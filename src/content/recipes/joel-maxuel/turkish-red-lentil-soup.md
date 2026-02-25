@@ -2,7 +2,6 @@
 title: Turkish Red Lentil Soup
 tags: ['lentil', 'soup', 'turkish']
 date: 2022-08-09
-author: joel-maxuel
 ---
 
 Serve with a squeeze of lemon and alongside turmeric flatbread.

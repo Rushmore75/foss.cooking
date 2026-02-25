@@ -2,7 +2,6 @@
 title: "Honey Garlic Chicken with Broccoli and Brown Rice"
 date: 2021-05-08
 tags: ['chicken', 'broccoli', 'rice', 'quick']
-author: "Connor McLean"
 ---
 
 Very easy, high protein.

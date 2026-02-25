@@ -2,7 +2,6 @@
 title: "Paneer Tikka Masala"
 date: 2021-03-23
 tags: ['indian', 'lunch', 'spicy']
-author: arth-patel
 ---
 
 ![paneer tikka masala](/pix/paneer-tikka-masala-00.webp "Paneer Tikka Masala served with Naan bread")

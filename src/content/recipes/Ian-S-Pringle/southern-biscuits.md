@@ -2,7 +2,6 @@
 title: "Southern Biscuits"
 date: 2021-03-23
 tags: ['american', 'southern']
-author: "Ian S Pringle"
 ---
 
 This is Southern (American) Style Biscuits.

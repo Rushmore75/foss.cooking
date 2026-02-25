@@ -2,7 +2,6 @@
 title: "Tiroler Gröstl"
 date: 2021-03-09
 tags: ['austrian', 'bacon', 'potato']
-author: peter-wilbrink
 ---
 
 - ⏲️  Prep time: 15 min

@@ -2,7 +2,6 @@
 title: "Potato sourdough bread"
 date: 2021-03-23
 tags: ['sourdough', 'bread', 'potato']
-author: "SirStart"
 ---
 
 ![Potato sourdough bread](/pix/sourdough-potato-bread.webp)

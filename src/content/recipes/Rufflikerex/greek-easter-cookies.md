@@ -2,7 +2,6 @@
 title: "Greek Easter Cookies"
 date: 2021-03-21
 tags: ['dessert', 'cookies', 'snack', 'greek', 'easter']
-author: "Rufflikerex"
 ---
 
 A very simple, delicious, and traditional greek recipe for easter cookies.

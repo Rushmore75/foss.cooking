@@ -2,7 +2,6 @@
 title: "Yorkshire Puddings"
 date: 2021-04-20
 tags: ['english', 'side']
-author: siggines
 ---
 
 ![Yorkshire Puddings](/pix/yorkshire-puddings.webp)

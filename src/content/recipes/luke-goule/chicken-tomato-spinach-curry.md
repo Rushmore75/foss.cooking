@@ -2,7 +2,6 @@
 title: "Chicken, Tomato and Spinach Curry"
 date: 2021-03-10
 tags: ['curry', 'chicken']
-author: luke-goule
 ---
 
 This dish is a very simple and tasty curry that can be made with minimal ingredients, but pairs amazingly with anything else one may want in a curry (i.e. ginger, lemongrass).

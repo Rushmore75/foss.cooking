@@ -2,7 +2,6 @@
 title: "Country Crisp Cereals"
 date: 2021-03-23
 tags: ['breakfast', 'english']
-author: "private"
 ---
 
 This is a recipe for making Jordan's Country Crisp-like cereals.

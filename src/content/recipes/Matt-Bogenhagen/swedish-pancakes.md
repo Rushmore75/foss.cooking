@@ -2,7 +2,6 @@
 title: "Swedish Pancakes"
 date: 2021-03-21
 tags: ['breakfast', 'swedish', 'pancake']
-author: "Matt Bogenhagen"
 ---
 
 ![Swedish Pancakes](/pix/swedish-pancakes-00.webp)

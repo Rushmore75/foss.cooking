@@ -2,7 +2,6 @@
 title: "Pasta (store bought)"
 date: 2021-03-10
 tags: ['italian', 'pasta', 'quick', 'basic', 'fasting']
-author: luke-smith
 ---
 
 This is a simple outline of how to cook pasta.

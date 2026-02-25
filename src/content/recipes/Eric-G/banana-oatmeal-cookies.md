@@ -2,7 +2,6 @@
 title: Banana and oatmeal cookies
 tags: ['snack', 'quick', 'dessert']
 date: 2022-07-12
-author: "Eric G"
 ---
 
 ![A banana oatmeal cookie](/pix/banana-oatmeal-cookies.webp)

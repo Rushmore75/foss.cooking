@@ -2,7 +2,6 @@
 title: "Coriander Chicken"
 date: 2021-04-02
 tags: ['indian', 'lunch', 'spicy']
-author: chetan-basuray
 ---
 
 Boneless chicken marinated in a gravy of yoghurt and coriander

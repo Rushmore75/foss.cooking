@@ -2,7 +2,6 @@
 title: "Soleier (pickled eggs)"
 date: 2021-05-13
 tags: ['snack', 'german', 'eggs', 'pub']
-author: svent
 ---
 
 ![Soleier](/pix/soleier.webp)

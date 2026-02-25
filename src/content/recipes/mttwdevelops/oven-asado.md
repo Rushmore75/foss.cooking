@@ -2,7 +2,6 @@
 title: "Oven Asado"
 date: 2022-09-10
 tags: ['argentinian', 'meat']
-author: mttwdevelops
 ---
 
 Such a simple way to prepare such a juicy slab of meat- Argentinian style! 

@@ -2,7 +2,6 @@
 title: "Portuguese Creamy Cod"
 date: 2022-08-06
 tags: ['portuguese', 'fish']
-author: taislin
 ---
 ![bacalhau com natas](/pix/portuguese-creamy-cod.webp)
 Called 'Bacalhau com Natas' in Portuguese, this is a traditional Portuguese dish. It is one of the many ways to cook cod - people say there are over 365 cod recipes in Portugal, more than one for each day of the year.

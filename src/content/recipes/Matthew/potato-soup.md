@@ -2,7 +2,6 @@
 title: Potato Soup
 tags: ['potato', 'milk', 'soup']
 date: 2022-05-19
-author: "Matthew"
 ---
 
 Serves many people or one person for many days.

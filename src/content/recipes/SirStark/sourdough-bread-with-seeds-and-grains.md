@@ -2,7 +2,6 @@
 title: "Sourdough bread with seeds and grains"
 date: 2021-03-23
 tags: ['sourdough', 'bread']
-author: "SirStark"
 ---
 
 ![Sourdough bread with seeds and grains](/pix/sourdough-bread-with-seeds-and-grains.webp)

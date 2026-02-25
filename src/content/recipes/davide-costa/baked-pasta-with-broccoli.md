@@ -2,7 +2,6 @@
 title: "Baked pasta with broccoli, boiled eggs and scamorza cheese"
 date: 2021-04-15
 tags: ['italian', 'pasta', 'broccoli', 'cheesefare']
-author: davide-costa
 ---
 
 ![baked-pasta-with-broccoli](/pix/baked-pasta-with-broccoli.webp)

@@ -2,7 +2,6 @@
 title: "Fondue"
 date: 2021-03-24
 tags: ['swiss', 'cheese']
-author: sekthor
 ---
 
 A swiss classic for cold winter dinners.

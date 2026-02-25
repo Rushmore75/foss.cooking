@@ -2,7 +2,6 @@
 title: "Gnocchi"
 date: 2021-03-10
 tags: ['italian', 'potato', 'side', 'fasting']
-author: luke-smith
 ---
 
 Gnocchi is a pasta based on potato, making it a less bloating alternative to other kinds of pasta.

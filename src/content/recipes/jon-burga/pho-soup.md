@@ -2,7 +2,6 @@
 title: "Pho Soup"
 date: 2021-03-23
 tags: ['vietnamese', 'beef']
-author: jon-burga
 ---
 
 ![Based Beef Pho](/pix/pho-soup.webp)

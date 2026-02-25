@@ -2,7 +2,6 @@
 title: "Croutons"
 date: 2021-03-11
 tags: ['basic', 'french', 'salad', 'fasting']
-author: "gucko"
 ---
 
 ![croutons](/pix/croutons.webp)

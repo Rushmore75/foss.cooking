@@ -2,7 +2,6 @@
 title: "Chipolata Sausage in Balsamic Vinegar"
 tags: ['beef', 'oven', 'italian']
 date: 2022-07-27
-author: "Kensix"
 ---
 
 Easy to prepare Italian dish with lots of flavour great for a relaxing evening dipping bread and sipping wine.

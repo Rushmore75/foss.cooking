@@ -2,7 +2,6 @@
 title: Kettle Corn
 tags: ['snack', 'sweet', 'quick']
 date: 2022-07-02
-author: "MMOOBB"
 ---
 
 ![Kettle Corn](/pix/kettlecorn.webp "Kettle Corn made with brown sugar")

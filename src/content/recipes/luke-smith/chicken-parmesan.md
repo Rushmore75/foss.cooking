@@ -2,7 +2,6 @@
 title: "Chicken Parmesan"
 date: 2021-03-10
 tags: ['italian', 'chicken']
-author: luke-smith
 ---
 
 The recipe that started this very site.

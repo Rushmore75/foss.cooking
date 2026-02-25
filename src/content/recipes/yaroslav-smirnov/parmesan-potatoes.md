@@ -2,7 +2,6 @@
 title: "Parmesan potatoes"
 date: 2021-03-12
 tags: ['potato', 'side']
-author: yaroslav-smirnov
 ---
 
 ![Parmesan potatoes](/pix/parmesan-potatoes.webp)

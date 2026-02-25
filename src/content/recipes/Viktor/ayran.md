@@ -2,7 +2,6 @@
 title: Ayran
 tags: ['drink', 'dairy', 'breakfast']
 date: 2022-08-11
-author: Viktor
 ---
 
 Ayran, also known as doogh, is a yogurt-based drink popular in Eastern Europe and Central Asia. It is usually consumed as part of the breakfast during the summer.

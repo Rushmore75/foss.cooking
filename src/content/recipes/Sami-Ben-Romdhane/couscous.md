@@ -2,7 +2,6 @@
 title: "Tunisian Couscous"
 date: 2022-07-26
 tags: ['tunisian']
-author: Sami Ben Romdhane
 ---
 
 

@@ -2,7 +2,6 @@
 title: "Merchant's Buckwheat"
 date: 2021-03-12
 tags: ['russian', 'pork']
-author: yaroslav-smirnov
 ---
 
 ![Merchant's Buckwheat](/pix/merchants-buckwheat.webp)

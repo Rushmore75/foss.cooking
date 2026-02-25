@@ -2,7 +2,6 @@
 title: "French Onion Soup"
 date: 2021-03-23
 tags: ['french', 'soup']
-author: joe-powerhouse
 ---
 
 - ⏲️ Prep time: 30 min

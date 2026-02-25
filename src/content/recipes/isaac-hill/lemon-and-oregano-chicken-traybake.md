@@ -2,7 +2,6 @@
 title: "Lemon and oregano chicken traybake"
 date: 2021-03-23
 tags: ['mediterranean', 'chicken', 'traybake']
-author: isaac-hill
 ---
 
 ![Lemon and oregano chicken traybake](/pix/lemon-and-oregano-chicken-traybake.webp)

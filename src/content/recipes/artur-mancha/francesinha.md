@@ -2,7 +2,6 @@
 title: "Francesinha"
 date: 2021-03-21
 tags: ['portuguese', 'beef']
-author: artur-mancha
 ---
 
 Francesinha is a traditional dish from the city of Porto. The francesinha in its special sandwich variation consists of linguiça, ham, cold meat and beef steak, covered with melted cheese.

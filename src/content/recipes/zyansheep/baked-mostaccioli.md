@@ -2,7 +2,6 @@
 title: "Baked Mostaccioli"
 date: 2021-03-21
 tags: ['pasta', 'italian']
-author: "zyansheep"
 ---
 
 ![baked mostaccioli in bowl](/pix/baked-mostaccioli-00.webp "Baked Mostaccioli in Bowl")

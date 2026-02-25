@@ -2,7 +2,6 @@
 title: "Schinkenfleckerl überbacken, Viennese Mac'n'Cheese"
 date: 2021-03-21
 tags: ['austrian', 'ham', 'noodles']
-author: martin-stohanzl
 ---
 
 * ⏲️ Prep time: 25 min

@@ -2,7 +2,6 @@
 title: "Carbonara"
 date: 2021-03-11
 tags: ['italian', 'pasta', 'quick', 'cheesefare']
-author: "Peter Piontek and Ladislao Blanchi"
 ---
 
 ![carbonara](/pix/carbonara.webp)

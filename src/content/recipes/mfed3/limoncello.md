@@ -2,7 +2,6 @@
 title: "Limoncello"
 date: 2021-05-13
 tags: ['alcohol', 'lemons', 'digestivo', 'liquor']
-author: mfed3
 ---
 
 ![Limoncello](/pix/limoncello.webp)

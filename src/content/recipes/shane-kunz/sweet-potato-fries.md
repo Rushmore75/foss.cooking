@@ -2,7 +2,6 @@
 title: "Basic Sweet Potato Fries Recipe"
 date: 2021-03-12
 tags: ['potato', 'snack', 'side', 'fasting']
-author: shane-kunz
 ---
 
 ![cooked sweet pototo fries in pan](/pix/sweet-potato-fries.webp)

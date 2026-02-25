@@ -2,7 +2,6 @@
 title: Pulpo a la gallega
 tags: ['fish', 'spanish']
 date: 2022-07-13
-author: "ivn1s"
 ---
 
 ![pulpo a la gallega](/pix/pulpo-gallega.webp)

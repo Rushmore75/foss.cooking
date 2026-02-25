@@ -2,7 +2,6 @@
 title: "Eggs"
 date: 2021-03-10
 tags: ['eggs', 'basic', 'cheesefare']
-author: martin-chrzanowski
 ---
 
 Eggs are great. This page will contain all sorts of "basic" ways of having an

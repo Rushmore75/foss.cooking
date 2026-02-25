@@ -2,7 +2,6 @@
 title: Hakka-Style Meatballs
 tags: ['beef', 'rice', 'asian']
 date: 2022-09-11
-author: joel-maxuel
 ---
 
 

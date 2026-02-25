@@ -2,7 +2,6 @@
 title: "Salsa Verde"
 date: 2021-03-19
 tags: ['mexican', 'sauce']
-author: "Nathan"
 ---
 
 ## Ingredients

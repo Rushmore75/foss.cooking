@@ -2,7 +2,6 @@
 title: "Smoked Turkey"
 date: 2021-03-30
 tags: ['basic', 'american', 'turkey']
-author: daddy-warcrimes
 ---
 
 Turkey, smoked on a charcoal grill

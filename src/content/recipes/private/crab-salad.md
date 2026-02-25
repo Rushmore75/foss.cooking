@@ -2,7 +2,6 @@
 title: "Crab salad"
 date: 2021-03-22
 tags: ['salad', 'russian']
-author: "private"
 ---
 
 ![Crab salad](/pix/crab-salad.webp)

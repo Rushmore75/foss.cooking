@@ -2,7 +2,6 @@
 title: "Cacio e Pepe"
 date: 2021-03-11
 tags: ['italian', 'quick', 'pasta', 'cheesefare']
-author: siedes
 ---
 
 ![pepe](/pix/cacio-e-pepe.webp)

@@ -2,7 +2,6 @@
 title: Shrimp Creole
 tags: ['shrimp', 'stew', 'southern']
 date: 2022-12-27
-author: "Mitchell Marquez"
 ---
 
 ![Shrimp Creole](/pix/shrimpcreole-mitchmarq42.webp)

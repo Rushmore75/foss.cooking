@@ -2,7 +2,6 @@
 title: "Dried tomato & plum bread spread"
 date: 2021-03-11
 tags: ['bread', 'quick', 'snack', 'spread', 'fasting']
-author: patryk-niedźwiedziński
 ---
 
 Quick and simple bread spread.

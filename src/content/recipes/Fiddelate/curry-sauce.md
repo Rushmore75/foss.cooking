@@ -2,7 +2,6 @@
 title: "Curry sauce"
 date: 2021-05-08
 tags: ['sauce', 'indian', 'curry']
-author: "Fiddelate"
 ---
 
 I like to make double this amount and freeze the rest.

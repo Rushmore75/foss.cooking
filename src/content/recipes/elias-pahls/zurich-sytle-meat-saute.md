@@ -2,7 +2,6 @@
 title: Zurich-Style Meat Saute
 tags: ['beef', 'cream', 'swiss', 'quick']
 date: 2023-01-06
-author: elias-pahls
 ---
 
 Originally called  "Züri Gschnätzlets" (Zurich chopped) from the city of Zurich

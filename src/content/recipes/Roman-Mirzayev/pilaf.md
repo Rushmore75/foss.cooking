@@ -2,7 +2,6 @@
 title: "Pilaf"
 date: 2021-03-17
 tags: ['uzbek', 'rice', 'lamb']
-author: "Roman Mirzayev"
 ---
 
 Popular central asian and middle eastern dish.

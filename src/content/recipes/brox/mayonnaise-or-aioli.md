@@ -2,7 +2,6 @@
 title: "Mayonnaise or aioli"
 date: 2021-04-06
 tags: ['sauce', 'basic']
-author: brox
 ---
 
 ![Aioli](/pix/mayonnaise-or-aioli.webp)

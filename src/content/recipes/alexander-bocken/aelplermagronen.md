@@ -2,7 +2,6 @@
 title: "Älplermagronen (Alpine macaroni)"
 date: 2021-03-11
 tags: ['swiss', 'pork', 'potato', 'pasta']
-author: alexander-bocken
 ---
 
 ![Älplermagronen](/pix/aelplermagronen.webp)

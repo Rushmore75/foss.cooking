@@ -2,7 +2,6 @@
 title: "Orange jam"
 date: 2021-04-06
 tags: ['jam', 'fruit', 'sweet', 'spread']
-author: martin-chrzanowski
 ---
 
 This jam is a traditional topping for the Polish [mazurek](/recipe/mazurek), but

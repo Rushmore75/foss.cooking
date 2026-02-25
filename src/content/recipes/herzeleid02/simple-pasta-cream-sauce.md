@@ -2,7 +2,6 @@
 title: "Simple Creamy Pasta Sauce"
 date: 2021-03-23
 tags: ['basic', 'quick', 'sauce', 'pasta']
-author: "herzeleid02"
 ---
 
 - ⏲️  Prep time: 2 min

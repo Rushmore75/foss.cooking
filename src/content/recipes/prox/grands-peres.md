@@ -2,7 +2,6 @@
 title: Grands-pères au sirop d'érable (Maple Dumplings)
 tags: ['quebec', 'dessert']
 date: 2022-06-28
-author: 'prox'
 ---
 
 ![Grands-pères](/pix/grands-peres.webp "Nice and fluffy")

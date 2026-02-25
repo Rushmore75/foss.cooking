@@ -2,7 +2,6 @@
 title: Grilled Mackerel with Miso Soup and Squash
 tags: ['fish', 'soup', 'japanese']
 date: 2022-11-16
-author: "Elsie Bee"
 ---
 - ⏲️ Prep time: 45 min
 - 🍳 Cook time: 15 min

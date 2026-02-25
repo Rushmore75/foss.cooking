@@ -2,7 +2,6 @@
 title: "Mushroom risotto"
 date: 2021-03-21
 tags: ['italian', 'mushrooms', 'wine', 'rice']
-author: robert5800
 ---
 
 - ⏲️ Prep time: 5 min

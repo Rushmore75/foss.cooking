@@ -2,7 +2,6 @@
 title: "Beef Wellington"
 date: 2022-04-15
 tags: ['english', 'beef']
-author: "HiddenSquid321"
 ---
 
 - ⏲️ Prep Time: 10 min

@@ -2,7 +2,6 @@
 title: "Ukrainian Borscht"
 date: 2021-04-02
 tags: ['ukrainian', 'soup', 'beetroot', 'russian']
-author: stanislav
 ---
 
 ![Borscht in a bowl](/pix/borscht.webp)

@@ -2,7 +2,6 @@
 title: "Pumpkin Flatbread"
 date: 2026-02-10
 tags: ['vegan']
-author: removewingman
 ---
 
 ![Pumpkin Flatbread 1](/pix/pumpkin-flatbread-1.avif)

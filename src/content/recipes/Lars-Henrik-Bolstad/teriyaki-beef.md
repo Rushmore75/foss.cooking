@@ -2,7 +2,6 @@
 title: Teriyaki Beef Wok
 tags: ['beef', 'asian', 'noodles']
 date: 2022-08-20
-author: "Lars Henrik Bolstad"
 ---
 
 ![Teriyaki Beef Wok](/pix/teriyaki-beef.webp)

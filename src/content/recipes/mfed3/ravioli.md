@@ -2,7 +2,6 @@
 title: "Ravioli"
 date: 2021-05-13
 tags: ['pasta', 'italian']
-author: mfed3
 ---
 
 ![Ravioli](/pix/ravioli-01.webp)

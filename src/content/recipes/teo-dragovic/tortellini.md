@@ -2,7 +2,6 @@
 title: "Tortellini"
 date: 2021-03-12
 tags: ['italian', 'pasta', 'quick', 'cheesefare']
-author: teo-dragovic
 ---
 
 ## Ingredients

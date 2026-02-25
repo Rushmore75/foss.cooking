@@ -2,7 +2,6 @@
 title: Pasta Arrabbiata
 tags: ['pasta', 'quick', 'italian']
 date: 2022-06-21
-author: "klisurovi4"
 ---
 
 ![arrabiata](/pix/pasta-arrabbiata.webp)

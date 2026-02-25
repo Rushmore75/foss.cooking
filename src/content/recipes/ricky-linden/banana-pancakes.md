@@ -2,7 +2,6 @@
 title: "Banana Pancakes"
 date: 2021-03-13
 tags: ['breakfast', 'quick', 'sweet', 'pancake', 'cheesefare']
-author: ricky-linden
 ---
 
 - ⏲️ Prep time: 10 minutes

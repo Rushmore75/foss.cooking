@@ -2,7 +2,6 @@
 title: "Hoisin Pork Belly"
 date: 2021-04-02
 tags: ['chinese', 'pork', 'spicy', 'sweet']
-author: "speaker scorned"
 ---
 
 ![Spicy Glazed Hoisin Pork Belly](/pix/hoisin-pork-belly.webp)

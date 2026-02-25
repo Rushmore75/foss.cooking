@@ -2,7 +2,6 @@
 title: "Ardei umpluti with meat"
 tags: ['romanian', 'peppers', 'oven', 'meat']
 date: 2022-07-11
-author: miraunpajaro
 ---
 
 ![Ardei umpluti](/pix/ardei_umpluti.webp)

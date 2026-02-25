@@ -2,7 +2,6 @@
 title: Ham and Lentil Soup
 tags: ['pork', 'soup', 'easy']
 date: 2022-08-09
-author: joel-maxuel
 ---
 
 For more flavour, boil down a soup bone and use the broth when filling the crock pot.

@@ -2,7 +2,6 @@
 title: Granola
 tags: ['breakfast']
 date: 2022-10-03
-author: hanlex
 ---
 
 # Granola

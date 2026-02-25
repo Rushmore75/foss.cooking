@@ -1,6 +1,5 @@
 ---
 title: "Full English Breakfast"
-author: reneon
 tags: ['english', 'breakfast']
 date: 2022-04-15
 ---

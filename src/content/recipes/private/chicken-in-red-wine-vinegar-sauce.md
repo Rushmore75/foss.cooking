@@ -2,7 +2,6 @@
 title: "Chicken in Red Wine Vinegar Sauce"
 date: 2021-03-16
 tags: ['chicken', 'french', 'wine']
-author: "private"
 ---
 
 - ⏲️ Prep time: 15 min

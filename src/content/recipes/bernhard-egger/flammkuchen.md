@@ -2,7 +2,6 @@
 title: "Flammkuchen"
 date: 2021-03-11
 tags: ['french', 'pork', 'quick']
-author: bernhard-egger
 ---
 
 A recipe for Flammkuchen a very thin crust pizza-like dish - it originates from Elsass, a French region close to where I grew up.

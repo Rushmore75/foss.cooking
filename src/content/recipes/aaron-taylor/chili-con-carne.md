@@ -2,7 +2,6 @@
 title: "Chili Con Carne"
 date: 2021-03-11
 tags: ['mexican', 'beef', 'beans']
-author: aaron-taylor
 ---
 
 ## Ingredients

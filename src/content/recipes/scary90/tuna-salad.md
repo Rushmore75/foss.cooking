@@ -2,7 +2,6 @@
 title: "Simple Tuna Salad"
 date: 2021-03-15
 tags: ['quick', 'basic', 'tuna', 'fish']
-author: "scary90"
 
 ---
 

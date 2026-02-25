@@ -2,7 +2,6 @@
 title: "Erwtensoep (Dutch pea soup)"
 date: 2021-03-23
 tags: ['dutch', 'soup', 'vegetables']
-author: rijk
 ---
 
 Erwtensoep, also called snert, is the Dutch version of pea soup.

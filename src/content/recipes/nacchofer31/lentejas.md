@@ -2,7 +2,6 @@
 title: "Sopa de Lentejas"
 date: 2021-03-21
 tags: ['spanish']
-author: nacchofer31
 ---
 
 ![Lentejas](/pix/lentejas.webp)

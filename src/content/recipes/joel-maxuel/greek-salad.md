@@ -2,7 +2,6 @@
 title: Greek Salad
 tags: ['salad', 'greek', 'mediterranean', 'tomato']
 date: 2022-08-04
-author: joel-maxuel
 ---
 
 - ⏲️ Prep time: 15 min

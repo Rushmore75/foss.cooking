@@ -2,7 +2,6 @@
 title: "Shakshouka"
 date: 2021-03-29
 tags: ['breakfast', 'quick']
-author: jakub-korsak
 ---
 
 Shakshouka is a dish of eggs poached in a sauce of tomatoes, olive oil, peppers, onion and garlic, and commonly spiced with cumin, paprika, cayenne pepper, and nutmeg.

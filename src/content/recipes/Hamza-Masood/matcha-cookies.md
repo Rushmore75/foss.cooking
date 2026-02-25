@@ -2,7 +2,6 @@
 title: "Matcha Cookies"
 date: 2021-03-11
 tags: ['snack', 'cookies', 'sweet', 'dessert', 'cheesefare']
-author: "Hamza Masood"
 ---
 
 Matcha is a type of tea leaf powder that has a beautiful vivid green color. However, it’s different from the “green tea” that you drink with Japanese meals. That’s green tea too, but matcha green tea leaves are grown and harvested differently. The leaves are grown under shade.

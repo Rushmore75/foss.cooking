@@ -2,7 +2,6 @@
 title: "Danish Pancake"
 date: 2021-03-18
 tags: ['quick', 'breakfast', 'sweet', 'pancake', 'cheesefare']
-author: jesper
 ---
 
 ![pancake](/pix/danish-pancake.webp)

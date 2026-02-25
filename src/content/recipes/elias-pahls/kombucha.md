@@ -2,7 +2,6 @@
 title: 'Kombucha'
 tags: ['drink', 'sweet']
 date: 2022-12-30
-author: elias-pahls
 ---
 
 The simple yet comprehensive guide to making tasty kombucha. This is intended

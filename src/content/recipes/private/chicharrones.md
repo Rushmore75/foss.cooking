@@ -2,7 +2,6 @@
 title: "Chicharrones"
 date: 2021-03-20
 tags: ['mexican', 'pork']
-author: "private"
 ---
 
 ## Ingredients

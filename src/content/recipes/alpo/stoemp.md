@@ -2,7 +2,6 @@
 title: "Stoemp"
 date: 2021-03-21
 tags: ['belgian', 'potato']
-author: alpo
 ---
 
 Mashed potatoes in Belgian style

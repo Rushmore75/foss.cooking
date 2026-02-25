@@ -2,7 +2,6 @@
 title: "Fajita Seasoning"
 date: 2021-03-17
 tags: ['basic', 'mexican', 'fasting']
-author: carl-zimmerman
 ---
 
 Simple seasoning mix similar to Old El Paso. Can be used for any Mexican dishes or plain meats.

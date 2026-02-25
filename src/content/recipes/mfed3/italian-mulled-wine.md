@@ -2,7 +2,6 @@
 title: "Italian Mulled Wine"
 date: 2021-05-13
 tags: ['alcohol', 'wine', 'liquor', 'drink']
-author: mfed3
 ---
 
 ![Italian Mulled Wine](/pix/italian-mulled-wine.webp)

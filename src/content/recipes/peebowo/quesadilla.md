@@ -2,7 +2,6 @@
 title: "Quesadilla"
 date: 2021-03-12
 tags: ['mexican', 'quick', 'cheesefare']
-author: "peebowo"
 
 ---
 

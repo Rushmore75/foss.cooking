@@ -2,7 +2,6 @@
 title: "Fish Curry"
 date: 2021-03-15
 tags: ['thai', 'fish']
-author: thijs-wester
 ---
 
 Best served with white rice

@@ -2,7 +2,6 @@
 title: Gypsy Soup
 tags: ['soup', 'fasting', 'tomato']
 date: 2022-08-04
-author: joel-maxuel
 ---
 
 The vegetables used in this soup are flexible. Any orange vegetable can be combined with green. Such as peas or green beans to replace peppers, or carrots and/or squash to replace the sweet potato.

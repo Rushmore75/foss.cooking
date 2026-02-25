@@ -2,7 +2,6 @@
 title: "Coconut Oil Coffee"
 date: 2021-03-16
 tags: ['drink', 'sweet', 'breakfast']
-author: front3ndninja
 ---
 
 - 🍽️ Servings: 1

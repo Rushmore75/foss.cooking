@@ -2,7 +2,6 @@
 title: "Marinated pork steaks "
 date: 2021-03-11
 tags: ['pork', 'steak']
-author: ricky-linden
 ---
 
 A tasty simple marinade that fits well with pork.

@@ -2,7 +2,6 @@
 title: "Spaghetti alla puttanesca"
 date: 2021-03-21
 tags: ['italian', 'pasta']
-author: postbellum
 ---
 Easy and delicious italian dish. Spaghetti alla puttanesca entice you for the savory sauce that surrounds them: peeled tomatoes, capers, "Gaeta" olives,  and anchovy fillets give these spaghetti a unique taste.
 

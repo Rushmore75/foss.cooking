@@ -2,7 +2,6 @@
 title: "Chimichanga"
 date: 2021-03-19
 tags: ['mexican', 'beef', 'basic']
-author: aj
 ---
 
 Essentially, just a fried burrito. Use whatever your favorite filling is.

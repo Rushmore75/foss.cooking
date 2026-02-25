@@ -2,7 +2,6 @@
 title: "Menemen"
 date: 2022-12-04
 tags: ['turkish', 'breakfast']
-author: furkan
 ---
 
 ![Menemen](/pix/menemen.webp)

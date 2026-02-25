@@ -2,7 +2,6 @@
 title: "Pancake"
 date: 2021-03-11
 tags: ['quick', 'breakfast', 'sweet', 'pancake', 'cheesefare']
-author: "BeFe"
 ---
 
 ![Pancakes made at home](/pix/pancake.webp)

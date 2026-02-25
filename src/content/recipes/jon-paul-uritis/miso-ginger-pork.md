@@ -2,7 +2,6 @@
 title: "Miso Ginger Pork"
 date: 2021-03-11
 tags: ['japanese', 'pork']
-author: jon-paul-uritis
 ---
 
 ## Ingredients

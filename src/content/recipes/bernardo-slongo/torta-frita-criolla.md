@@ -2,7 +2,6 @@
 title: Torta Frita Criolla (Argentinian frybread)
 tags: ['argentinian', 'fry', 'bread']
 date: 2022-06-23
-author: "bernardo-slongo"
 ---
 
 A "merienda" (afternoon meal) that is intertwined with the history of colonization on the River Plate region. Never have it by yourself, instead with friends or family, and a cup/gourd of Mate. 

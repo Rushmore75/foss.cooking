@@ -2,7 +2,6 @@
 title: "Garam Masala"
 date: 2021-04-02
 tags: ['indian', 'spice']
-author: chetan-basuray
 ---
 
 A spice mixture for most Indian dishes

@@ -2,7 +2,6 @@
 title: Kropsua (Finnish Baked Pancake)
 tags: ['finnish', 'pancake', 'breakfast']
 date: 2023-05-04
-author: "Albert Elmore"
 ---
 
 ![kropsua](/pix/kropsua.webp)

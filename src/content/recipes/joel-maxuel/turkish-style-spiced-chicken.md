@@ -2,7 +2,6 @@
 title: Turkish-Style Spiced Chicken
 tags: ['chicken', 'turkish']
 date: 2022-08-09
-author: joel-maxuel
 ---
 
 - ⏲️ Prep time: 10 min

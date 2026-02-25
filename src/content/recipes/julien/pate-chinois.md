@@ -2,7 +2,6 @@
 title: "Pâté Chinois (Quebec Style Shepherd’s Pie)"
 date: 2021-03-22
 tags: ['quebec', 'beef', 'pie', 'potato']
-author: julien
 ---
 
 ![pate chinois](/pix/pate-chinois.webp "Homemade pate chinois with to much ketchup")

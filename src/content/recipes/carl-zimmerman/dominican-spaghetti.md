@@ -2,7 +2,6 @@
 title: "Dominican Spaghetti"
 date: 2021-03-17
 tags: ['pasta', 'supper', 'dominican', 'cheesefare']
-author: carl-zimmerman
 ---
 
 - ⏲️ Prep time: 10 min

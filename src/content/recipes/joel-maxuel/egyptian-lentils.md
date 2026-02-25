@@ -2,7 +2,6 @@
 title: Egyptian Lentils
 tags: ['rice', 'pasta']
 date: 2022-09-10
-author: joel-maxuel
 ---
 
 

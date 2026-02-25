@@ -2,7 +2,6 @@
 title: "No-knead Bread"
 date: 2021-03-21
 tags: ['bread', 'dough']
-author: enthdegree
 ---
 
 ![Finished bread](/pix/no-knead-bread-1.webp)

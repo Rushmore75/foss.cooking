@@ -2,7 +2,6 @@
 title: "Apple strudel"
 date: 2021-03-22
 tags: ['dessert', 'breakfast']
-author: "Lorenzo Iuri"
 ---
 
 ![apple-strudel-1](/pix/apple-strudel-1.webp)

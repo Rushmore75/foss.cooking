@@ -2,7 +2,6 @@
 title: "Cheesy Pasta Bake"
 date: 2021-03-21
 tags: ['bacon', 'cheese', 'italian', 'pasta']
-author: techiedamien
 ---
 
 - ⏲️ Prep time: 15 min

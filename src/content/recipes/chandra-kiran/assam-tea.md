@@ -2,7 +2,6 @@
 title: "Assam Tea"
 date: 2021-03-21
 tags: ['drink', 'quick']
-author: chandra-kiran
 ---
 
 ![Assam Tea](/pix/assam-tea.webp)

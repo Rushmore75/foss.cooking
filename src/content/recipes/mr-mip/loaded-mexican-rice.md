@@ -2,7 +2,6 @@
 title: "Loaded Mexican Rice"
 date: 2021-03-21
 tags: ['rice', 'southwest']
-author: mr-mip
 ---
 
 A tex-mex style mexican rice with beans and meat. Adding the beans and meat take it from a side

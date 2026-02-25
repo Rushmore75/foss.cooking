@@ -2,7 +2,6 @@
 title: "Breton Crêpes (Breton Galettes)"
 date: 2021-03-14
 tags: ['french', 'cheesefare']
-author: aeredren
 ---
 Buckwheat crêpes eaten as dishes, traditionally garnished with ham, eggs and cheese (galette complète).
 

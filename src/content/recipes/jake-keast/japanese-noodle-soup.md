@@ -2,7 +2,6 @@
 title: "Japanese Noodle Soup"
 date: 2021-03-12
 tags: ['japanese', 'chicken', 'soup']
-author: jake-keast
 ---
 
 ![Japanese Noodle Soup](/pix/japanese-noodle-soup.webp)

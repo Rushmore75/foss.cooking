@@ -2,7 +2,6 @@
 title: "Taco Meat"
 date: 2021-03-12
 tags: ['mexican', 'beef']
-author: elias-howell
 ---
 
 ## Ingredients

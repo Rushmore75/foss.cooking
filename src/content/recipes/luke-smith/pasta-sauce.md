@@ -2,7 +2,6 @@
 title: "Pasta sauce"
 date: 2021-03-10
 tags: ['italian', 'basic', 'sauce', 'fasting']
-author: luke-smith
 ---
 
 This is very simple pasta sauce.

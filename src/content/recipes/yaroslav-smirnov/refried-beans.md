@@ -2,7 +2,6 @@
 title: "Refried Beans"
 date: 2021-03-12
 tags: ['mexican', 'beans', 'fasting']
-author: yaroslav-smirnov
 ---
 
 ![Refried Beans](/pix/refried-beans.webp)

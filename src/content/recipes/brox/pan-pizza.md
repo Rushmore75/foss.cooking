@@ -2,7 +2,6 @@
 title: "Pan pizza"
 date: 2021-03-21
 tags: ['basic', 'pizza']
-author: brox
 ---
 
 ![Pan pizza](/pix/pan-pizza.webp)

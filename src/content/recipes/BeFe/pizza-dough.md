@@ -2,7 +2,6 @@
 title: "Pizza Dough"
 date: 2021-03-11
 tags: ['basic', 'pizza', 'dough']
-author: "BeFe"
 ---
 
 Here is a simple pizza dough recipe. Basically you use a 2/1 ratio of

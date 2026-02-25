@@ -2,7 +2,6 @@
 title: "Cheese" 
 date: 2022-04-16
 tags: ['basic', 'cheesefare']
-author: "SuperDuperDeou" 
 ---
 
 The success of this recipe depends entirely on the quality of the milk. The fresher the milk the better. Your regular UHT milk won't work, because the necessary bacteria have been killed.

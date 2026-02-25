@@ -2,7 +2,6 @@
 title: "Drunken beans (Pintos Borrachos)"
 date: 2021-03-11
 tags: ['beans', 'stew']
-author: "private"
 ---
 
 Pinto beans cooking with beer, what beer you use can change the dish.

@@ -2,7 +2,6 @@
 title: "Miso-soup"
 date: 2021-03-23
 tags: ['japanese', 'soup']
-author: yakatan
 ---
 
 Miso-soup is Japanese traditional home cooking.

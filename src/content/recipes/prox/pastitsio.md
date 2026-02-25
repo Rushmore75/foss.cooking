@@ -2,7 +2,6 @@
 title: Pastítsio
 tags: ['greek', 'mediterranean', 'pasta', 'supper']
 date: 2022-06-17
-author: 'prox'
 ---
 
 - ⏲️  Prep time: 15 min

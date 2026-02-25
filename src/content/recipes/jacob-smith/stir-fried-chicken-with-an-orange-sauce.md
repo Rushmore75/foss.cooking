@@ -2,7 +2,6 @@
 title: "Stir Fried Chicken with an Orange Sauce"
 date: 2021-03-16
 tags: ['asian', 'chicken']
-author: jacob-smith
 ---
 
 I could have called this Orange Chicken but I feel like some people wouldn't classify my recipe that way.

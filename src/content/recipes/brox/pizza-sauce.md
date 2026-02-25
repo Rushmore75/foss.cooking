@@ -2,7 +2,6 @@
 title: "Pizza sauce"
 date: 2021-03-21
 tags: ['basic', 'pizza', 'sauce']
-author: brox
 ---
 
 - ⏲️ Prep time: 10 min

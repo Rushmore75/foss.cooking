@@ -2,7 +2,6 @@
 title: Chicken Satay with Peanut Sauce 
 tags: ['chicken', 'thai', 'asian']
 date: 2022-07-10 
-author: "Eric Lindberg"
 ---
 
 - ⏲️ Prep time: 10 min

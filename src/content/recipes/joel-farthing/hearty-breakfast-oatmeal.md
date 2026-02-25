@@ -2,7 +2,6 @@
 title: "Hearty Breakfast Oatmeal "
 date: 2021-03-29
 tags: ['breakfast', 'quick']
-author: joel-farthing
 ---
 
 ![hearty-breakfast-oatmeal-00](/pix/hearty-breakfast-oatmeal-00.webp)

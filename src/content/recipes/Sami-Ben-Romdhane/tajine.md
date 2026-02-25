@@ -2,7 +2,6 @@
 title: "Tajine Maadnous"
 date: 2022-11-16
 tags: ['tunisian', 'eggs']
-author: Sami Ben Romdhane
 ---
 
 Similar to an Italian frittata or Spanish tortilla, Tunisian tajine maadnous is an easy & delicious egg omelette filled with chicken, parsley, and spices.

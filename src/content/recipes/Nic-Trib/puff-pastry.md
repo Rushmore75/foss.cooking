@@ -2,7 +2,6 @@
 title: Puff Pastry
 tags: ['dough', 'cheesefare', 'pastry']
 date: 2022-06-23
-author: "Nic Trib"
 ---
 
 A basic puff pastry recipe that can replace any recipe that calls for puff pastry.

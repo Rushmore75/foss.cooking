@@ -2,7 +2,6 @@
 title: "Challah Bread"
 date: 2021-04-15
 tags: ['israeli', 'bread']
-author: siggines
 ---
 
 A kind of braided bread preparation.

@@ -2,7 +2,6 @@
 title: "Tarta de Santiago"
 date: 2022-07-03
 tags: ['spanish', 'almond', 'cake', 'galician']
-author: laura-alvarez
 ---
 
 ![Tarta de Santiago](/pix/tarta-de-santiago.webp)

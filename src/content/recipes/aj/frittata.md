@@ -2,7 +2,6 @@
 title: "Frittata"
 date: 2021-03-15
 tags: ['eggs', 'italian', 'cheesefare']
-author: aj
 ---
 
 Very filling egg dish that's easy, fast, and can be eaten at any meal. Any other types of vegetables can be added, this is just what I use the most

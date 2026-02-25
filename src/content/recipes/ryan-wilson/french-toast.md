@@ -2,7 +2,6 @@
 title: "French Toast"
 date: 2021-03-21
 tags: ['breakfast', 'french']
-author: ryan-wilson
 ---
 
 ![French Toast](/pix/french-toast.webp)
