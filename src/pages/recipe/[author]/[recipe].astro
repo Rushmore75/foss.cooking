@@ -4,7 +4,14 @@ import { render } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import Base from '../../../partials/base.astro';
-import { collections } from '../../../content.config';
+
+interface HasId {
+    id: string
+}
+
+function get_author_name(v: HasId): string {
+    return v.id.split('/')[0]
+}
 
 // generate the page
 export const getStaticPaths = (async () => {
@@ -25,23 +32,31 @@ export const getStaticPaths = (async () => {
 // produce the page
 const { article } = Astro.props;
 const { Content } = await render(article);
+const {title, date, tags} = article.data;
 
-const {title, author, date, tags} = article.data;
+let all_authors = await getCollection("authors");
+let author: null | any = null;
+all_authors.map(a => {
+    let parsed_author = get_author_name(article)
+    let test = get_author_name(a);
 
-let a = await getCollection(author.collection);
-
-let auth_obj = await getEntry(
-    author.collection,
-    `${author.id}/author`.replaceAll(' ', '-').toLowerCase(),
-);
+    if (test == parsed_author) {
+        author = a
+    }
+});
 
 let author_url = null
-if (auth_obj) {
-    author_url = "/author/" + auth_obj.id.split('/')[0]
+if (author) {
+    let name = get_author_name(author)
+    let auth_obj = await getEntry("authors", `${name}/author`);
+
+    if (auth_obj) {
+        author_url = "/author/" + auth_obj.id.split('/')[0]
+    }
 }
 
 ---
-<Base title={title} desc=`${title} by ${author}` author={author.id}>
+<Base title={title} desc=`${title} by ${author}` author={author?.id} >
     <div>
         <header>
             <h1>{title}</h1>

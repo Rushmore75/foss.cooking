@@ -11,7 +11,7 @@ const recipe = defineCollection({
         title: z.string(),
         date: z.date(),
         tags: z.array(z.string()),
-        author: reference("authors"),
+        // Pulls the author based on the path. Since the filepath is <author>/<recipe>
     })
 });
 
