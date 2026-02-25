@@ -29,10 +29,6 @@ const { Content } = await render(article);
 const {title, author, date, tags} = article.data;
 
 let a = await getCollection(author.collection);
-a.map((author) => {
-    console.log(author.id)
-})
-console.log(author)
 
 let auth_obj = await getEntry(
     author.collection,
