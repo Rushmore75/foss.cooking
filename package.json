@@ -10,6 +10,10 @@
     "clean": "rm -rf .astro dist"
   },
   "dependencies": {
-    "astro": "^5.2.5"
+    "@astrojs/node": "^9.5.4",
+    "astro": "^5.2.5",
+    "node-addon-api": "^8.6.0",
+    "node-gyp": "^12.2.0",
+    "sharp": "^0.34.5"
   }
 }

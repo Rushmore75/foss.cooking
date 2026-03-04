@@ -4,6 +4,7 @@ import { render } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import Base from '../../../partials/base.astro';
+import Header from '../../../partials/header.astro';
 
 interface HasId {
     id: string
@@ -58,14 +59,7 @@ if (author) {
 ---
 <Base title={title} desc=`${title} by ${author}` author={author?.id} >
     <div>
-        <header>
-            <h1>{title}</h1>
-            <div id="links">
-            <span><a href="/">Home</a></span>
-            { author_url && <span><a href={author_url}>Author</a></span> }
-            <span><a id="back">Back</a></span>
-            </div>
-        </header>
+        <Header title={title} author_url={author_url}/>
         <hr>
         <article>
             <Content />
@@ -78,24 +72,6 @@ if (author) {
     </div>
 </Base>
 <style>
-    header {
-        display: flex;
-        flex-direction: column;
-        margin: 40px;
-        align-items: center;
-    }
-    h1 {
-        margin: 0;
-        text-align: center;
-    }
-    #links {
-        display: flex;
-        gap: 0.5em;
-    }
-    h2 {
-        margin: 0;
-        padding: 10px;
-    }
     article {
         max-width: 800px;
         width: 90%;

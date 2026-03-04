@@ -1,0 +1,14 @@
+services:
+  node:
+    image: "node:22"
+    restart: unless-stopped
+    working_dir: /home/node/app
+    environment:
+      - HOST=0.0.0.0
+      - PORT=4333
+      - NODE_ENV=production
+    volumes:
+      - ./:/home/node/app/
+    ports:
+      - 4333:4333
+    command: "node ./dist/server/entry.mjs"
