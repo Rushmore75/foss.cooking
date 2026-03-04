@@ -1,0 +1,63 @@
+---
+import { getCollection } from "astro:content";
+import Head from "../partials/base.astro";
+import Header from "../partials/header.astro";
+
+export const prerender = false;
+
+interface A {
+    title: string,
+    author: string,
+    url: string,
+};
+
+let options: A[] = [];
+
+const query = Astro.url.searchParams.get("query");
+
+if (query) {
+    (await getCollection("recipe")).map((m) => {
+        if (m.data.title.toLowerCase().includes(query.toString().toLowerCase())) {
+            options.push({
+                title: m.data.title,
+                author: m.data.author.id,
+                url: `/recipe/${m.id}`,
+            });
+        }
+    });
+}
+
+options.sort((a,b) => a.title.length - b.title.length)
+
+---
+
+<Head title="Search..." desc="Search results page">
+    <div>
+    <Header title=`Search: ${query}`/>
+    <ul>
+    {
+        options.map((e) => <li>
+            <a href={e.url}><span>{e.title}</span> by <span>{e.author}</span></a>
+            </li>
+        )
+    }
+    </ul>
+    </div>
+</Head>
+
+<style>
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    span {
+        color: white;
+    }
+    div {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+</style>

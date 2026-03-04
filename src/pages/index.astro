@@ -3,7 +3,6 @@ import { getCollection } from "astro:content"
 import Head from "../partials/base.astro"
 import Latest from "../partials/latest.astro";
 import Tagcloud from "../partials/tagcloud.astro";
-import Search from "../partials/search.astro";
 
 export async function getTags(): Promise<string[]> {
 	let recipes = await getCollection("recipe");
@@ -23,13 +22,21 @@ const tags = await getTags();
 
 ---
 
-<Head title='Home' desc='The best cooking website for open-source recipies.'>
+<Head title='Home' desc='The best cooking website for open-source recipes.'>
 	<header>
 		<h1>Welcome to <span>foss.cooking<span></h1>
 		<h2>Making cooking fast, easy, foss</h2>
 		<h2>🧑‍🍳🔥</h2>
 	</header>
-	<Search content={recipes}/>
+	<div id="searchContainer">
+		<form method="GET" action="/search">
+    		<input
+				id="query"
+				name="query"
+				type="search"
+				placeholder="search..." autofocus spellcheck="false" autocomplete="off">
+		</form>
+	</div>
 	<hr>
 	<Latest recipes={recipes}/>
 	<hr>
@@ -53,5 +60,21 @@ const tags = await getTags();
 	}
 	span {
 		color: var(--primary);
+	}
+    input {
+        font-size: 1.5rem;
+        text-align: center;
+
+        padding: 10px;
+        padding-left: 20px;
+        padding-right: 20px;
+
+        border-radius: 10px;
+        border: none;
+    }
+	#searchContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
 	}
 </style>

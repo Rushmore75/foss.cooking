@@ -3,6 +3,7 @@ import type { GetStaticPaths } from "astro";
 import { getCollection } from "astro:content";
 import { getTags } from "../index.astro";
 import Base from "../../partials/base.astro";
+import Header from "../../partials/header.astro";
 
 // generate the page
 export const getStaticPaths = (async () => {
@@ -25,34 +26,13 @@ const filtered = recipes.filter((e) => e.data.tags.includes(tag))
 ---
 <Base title=`Tag: ${tag}` desc=`All recipes containing the tag: ${tag}` >
 	<article>
-	<header>
-    	<h1>All recipes with "{tag}"</h1>
-		<div id="links">
-		<h2><a href="/">Home</a></h2>
-		<h2><a id="back">Back</a></h2>
-	</header>
-    <ul>
-        { filtered.map((f) => <li><a href=`/recipe/${f.id}`>{f.data.title}</a></li>) }
-    </ul>
+        <Header title=`All recipes tagged ${tag}`/>
+        <ul>
+            { filtered.map((f) => <li><a href=`/recipe/${f.id}`>{f.data.title}</a></li>) }
+        </ul>
     </article>
 </Base>
 <style>
-    header {
-        margin-top: 50px;
-        margin-bottom: 10px;
-    }
-    #links {
-        display: flex;
-        justify-content: center;
-    }
-    h1 {
-        font-size: 3rem;
-        margin: 0;
-    }
-    h2 {
-        margin: 0;
-        padding: 10px;
-    }
     article {
         display: flex;
         align-items: center;
