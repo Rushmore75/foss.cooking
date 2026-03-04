@@ -2,6 +2,7 @@
 import { getCollection } from "astro:content";
 import Head from "../partials/base.astro";
 import Header from "../partials/header.astro";
+import { get_author_name } from "./recipe/[author]/[recipe].astro";
 
 export const prerender = false;
 
@@ -20,7 +21,7 @@ if (query) {
         if (m.data.title.toLowerCase().includes(query.toString().toLowerCase())) {
             options.push({
                 title: m.data.title,
-                author: m.data.author.id,
+                author: get_author_name(m),
                 url: `/recipe/${m.id}`,
             });
         }

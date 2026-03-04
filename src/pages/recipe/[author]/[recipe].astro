@@ -10,7 +10,7 @@ interface HasId {
     id: string
 }
 
-function get_author_name(v: HasId): string {
+export function get_author_name(v: HasId): string {
     return v.id.split('/')[0]
 }
 
