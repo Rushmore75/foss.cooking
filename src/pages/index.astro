@@ -16,6 +16,7 @@ export async function getTags(): Promise<string[]> {
 }
 
 let recipes = await getCollection("recipe");
+const searchText = `Search ${recipes.length} recipes...`
 recipes.sort((a,b) => b.data.date.getTime() - a.data.date.getTime());
 recipes = recipes.filter((r,i) => i<10)
 
@@ -33,7 +34,7 @@ const tags = await getTags();
 				id="query"
 				name="query"
 				type="search"
-				placeholder="search..." autofocus spellcheck="false" autocomplete="off">
+				placeholder={searchText} autofocus spellcheck="false" autocomplete="off">
 		</form>
 	</div>
 	<hr>
