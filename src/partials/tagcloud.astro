@@ -4,22 +4,17 @@ interface Props {
     tags: string[],
 }
 
-let { tags } = Astro.props;
+const { tags } = Astro.props;
 
-// Remove emojis for sorting, but display original tag
-function stripEmoji(str: string) {
-    // Remove leading emoji and spaces (covers most emoji cases)
-    return str.replace(/^[\p{Emoji_Presentation}\p{Extended_Pictographic}]+/gu, '').trimStart();
-}
+tags.sort((a, b) => a.localeCompare(b));
 
-tags = [...tags].sort((a, b) => stripEmoji(a).localeCompare(stripEmoji(b)));
-
+// The emojis are managed in `tag-icons.css` based on the link's ID here
 ---
 <div>
     <h2>All Tags:</h2>
 <ul id="tags">
     {
-        tags.map((r) => <li><a id={`tag-${r}`} href={`/tag/${r}`}>{r}</a></li>)
+        tags.map((tagName) => <li><a id={`tag-${tagName}`} href={`/tag/${tagName}`}>{tagName}</a></li>)
     }
 </ul>
 </div>
