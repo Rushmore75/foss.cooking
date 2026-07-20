@@ -1,8 +1,8 @@
 ---
 import { getCollection } from "astro:content"
 import Head from "../partials/base.astro"
-import Latest from "../partials/latest.astro";
 import Tagcloud from "../partials/tagcloud.astro";
+import RecipeList from "../partials/recipeList.astro";
 
 export async function getTags(): Promise<string[]> {
 	let recipes = await getCollection("recipe");
@@ -15,13 +15,12 @@ export async function getTags(): Promise<string[]> {
 	return tags;
 }
 
-const recipes = await getCollection("recipe");
+let recipes = await getCollection("recipe");
 recipes.sort((a,b) => b.data.date.getTime() - a.data.date.getTime());
+recipes = recipes.filter((r,i) => i<10)
 
 const tags = await getTags();
-
 ---
-
 <Head title='Home' desc='The best cooking website for open-source recipes.'>
 	<header>
 		<h1>Welcome to <span>foss.cooking<span></h1>
@@ -38,7 +37,10 @@ const tags = await getTags();
 		</form>
 	</div>
 	<hr>
-	<Latest recipes={recipes}/>
+	<div id="latest">
+		<h2>Latest Recipes:</h2>
+		<RecipeList items={recipes} numberedList={true}/>
+	</div>
 	<hr>
 	<Tagcloud tags={tags} />
 </Head>
@@ -49,7 +51,7 @@ const tags = await getTags();
 	h1 {
 		margin-top: 40px;
 		margin-bottom: 0;
-		font-size: 2rem;
+		font-size: 2.5rem;
 	}
 	h1,h2 {
 		text-align: center;
@@ -76,5 +78,13 @@ const tags = await getTags();
         display: flex;
         flex-direction: column;
         align-items: center;
+	}
+	#latest {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+	#latest h2 {
+		color: var(--text)
 	}
 </style>

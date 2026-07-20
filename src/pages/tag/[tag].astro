@@ -4,6 +4,7 @@ import { getCollection } from "astro:content";
 import { getTags } from "../index.astro";
 import Base from "../../partials/base.astro";
 import Header from "../../partials/header.astro";
+import RecipeList from "../../partials/recipeList.astro";
 
 // generate the page
 export const getStaticPaths = (async () => {
@@ -22,14 +23,11 @@ const {tag} = Astro.params;
 
 const recipes = await getCollection("recipe");
 const filtered = recipes.filter((e) => e.data.tags.includes(tag))
-
 ---
 <Base title=`Tag: ${tag}` desc=`All recipes containing the tag: ${tag}` >
 	<article>
-        <Header title=`All recipes tagged ${tag}`/>
-        <ul>
-            { filtered.map((f) => <li><a href=`/recipe/${f.id}`>{f.data.title}</a></li>) }
-        </ul>
+        <Header title=`All recipes tagged: ${tag}`/>
+        <RecipeList items={filtered}/>
     </article>
 </Base>
 <style>

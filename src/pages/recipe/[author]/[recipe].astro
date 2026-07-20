@@ -1,17 +1,24 @@
 ---
 import type { GetStaticPaths } from 'astro';
-import { render } from 'astro:content';
+import { render, type CollectionEntry } from 'astro:content';
 import { getEntry } from 'astro:content';
 import { getCollection } from 'astro:content';
 import Base from '../../../partials/base.astro';
 import Header from '../../../partials/header.astro';
 
-interface HasId {
-    id: string
+export async function getAuthorNameOf(recipe: CollectionEntry<"recipe">) {
+    const author = await getAuthorOf(recipe);
+    if (author) {
+        return author.data.name
+    }
+    // no author.json
+    // This is just a vanity name, so we can doctor it.
+    return recipe.id.split("/")[0].replaceAll('-', ' ')
 }
 
-export function get_author_name(v: HasId): string {
-    return v.id.split('/')[0]
+export async function getAuthorOf(recipe: CollectionEntry<"recipe">) {
+    const authorId = recipe.id.split("/")[0];
+    return getEntry("authors", `${authorId}/author`);
 }
 
 // generate the page
@@ -35,31 +42,14 @@ const { article } = Astro.props;
 const { Content } = await render(article);
 const {title, date, tags} = article.data;
 
-let all_authors = await getCollection("authors");
-let author: null | any = null;
-all_authors.map(a => {
-    let parsed_author = get_author_name(article)
-    let test = get_author_name(a);
-
-    if (test == parsed_author) {
-        author = a
-    }
-});
-
-let author_url = null
-if (author) {
-    let name = get_author_name(author)
-    let auth_obj = await getEntry("authors", `${name}/author`);
-
-    if (auth_obj) {
-        author_url = "/author/" + auth_obj.id.split('/')[0]
-    }
-}
+const author = await getAuthorOf(article);
+const author_url = author ? "/author/" + author?.id.split('/')[0] : undefined;
+const author_name = await getAuthorNameOf(article);
 
 ---
-<Base title={title} desc=`${title} by ${author}` author={author?.id} >
+<Base title={title} desc=`${title} by ${author_name}` author={author_name} >
     <div>
-        <Header title={title} author_url={author_url}/>
+        <Header title={title} author_url={author_url} author_name={author_name}/>
         <hr>
         <article>
             <Content />
@@ -96,6 +86,10 @@ if (author) {
 </style>
 <!-- is:global is required to reach inside the Content element -->
 <style is:global>
+    li p {
+        /* If someone's list has spaces around it in the markdown, it will put paragraph elements inside the list item */
+        margin: 0;
+    }
     img {
         width: 100%;
         max-width: 400px;

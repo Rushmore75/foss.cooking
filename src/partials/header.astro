@@ -1,16 +1,16 @@
 ---
-
 interface Props {
-    title: string,
-    author_url?: string | null,
+    title: string;
+    author_url?: string;
+    author_name?: string;
 }
 
-const { title, author_url } = Astro.props;
-
+const { title, author_url, author_name } = Astro.props;
 ---
 
 <header>
     <h1>{title}</h1>
+    {author_name && <cite>by {author_name}</cite>}
     <div id="links">
         <span><a href="/">Home</a></span>
         {

@@ -2,50 +2,30 @@
 import { getCollection } from "astro:content";
 import Head from "../partials/base.astro";
 import Header from "../partials/header.astro";
-import { get_author_name } from "./recipe/[author]/[recipe].astro";
+import RecipeList from "../partials/recipeList.astro";
+import type { CollectionEntry } from "astro:content";
 
 export const prerender = false;
 
-interface A {
-    title: string,
-    author: string,
-    url: string,
-};
-
-let options: A[] = [];
-
 const query = Astro.url.searchParams.get("query");
+const items: CollectionEntry<"recipe">[] = []
 
 if (query) {
-    (await getCollection("recipe")).map((m) => {
-        if (m.data.title.toLowerCase().includes(query.toString().toLowerCase())) {
-            options.push({
-                title: m.data.title,
-                author: get_author_name(m),
-                url: `/recipe/${m.id}`,
-            });
+    for (const recipe of await getCollection("recipe")) {
+        if (recipe.data.title.toLowerCase().includes(query.toString().toLowerCase())) {
+            items.push(recipe);
         }
-    });
+    }
 }
 
-options.sort((a,b) => a.title.length - b.title.length)
-
+items.sort((a,b) => a.data.title.length - b.data.title.length)
 ---
-
 <Head title="Search..." desc="Search results page">
     <div>
     <Header title=`Search: ${query}`/>
-    <ul>
-    {
-        options.map((e) => <li>
-            <a href={e.url}><span>{e.title}</span> by <span>{e.author}</span></a>
-            </li>
-        )
-    }
-    </ul>
+    <RecipeList items={items} />
     </div>
 </Head>
-
 <style>
     a {
         text-decoration: none;

@@ -1,5 +1,4 @@
 ---
-
 interface Props {
     tags: string[],
 }
@@ -12,18 +11,15 @@ tags.sort((a, b) => a.localeCompare(b));
 ---
 <div>
     <h2>All Tags:</h2>
-<ul id="tags">
-    {
-        tags.map((tagName) => <li><a id={`tag-${tagName}`} href={`/tag/${tagName}`}>{tagName}</a></li>)
-    }
-</ul>
+    <ul id="tags">
+        {
+            tags.map((tagName) => <li>
+                <a id={`tag-${tagName}`} href={`/tag/${tagName}`}>{tagName}</a>
+            </li>)
+        }
+    </ul>
 </div>
 <style>
-    h2 {
-        text-align: center;
-        margin: 0;
-        font-size: 2rem;
-    }
     ul {
         display: flex;
         flex-wrap: wrap;

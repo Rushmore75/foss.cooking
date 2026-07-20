@@ -1,0 +1,49 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { getAuthorNameOf } from '../pages/recipe/[author]/[recipe].astro';
+
+interface Props {
+    items: CollectionEntry<"recipe">[];
+    numberedList?: Boolean | undefined
+}
+
+interface Recipe {
+    title: string;
+    author: string;
+    url: string;
+}
+
+const {items, numberedList } = Astro.props;
+const internal: Recipe[]  = []
+for (const i of items) {
+    internal.push({
+        author: await getAuthorNameOf(i),
+        title: i.data.title,
+        url: `/recipe/${i.id}`
+    })
+}
+
+const ListTag = numberedList ? "ol" : "ul"
+---
+<ListTag>
+    {
+        internal.map((e) => (
+            <li>
+                <a href={e.url}>
+                    <span>{e.title}</span> by {e.author}
+                </a>
+            </li>
+        ))
+    }
+</ListTag>
+<style>
+    a {
+        text-decoration: none;
+    }
+    a:hover {
+        text-decoration: underline;
+    }
+    span {
+        color: white;
+    }
+</style>
